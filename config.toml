@@ -2,3 +2,27 @@ baseurl = "http://replace-this-with-your-hugo-site.com/"
 title = "Yelling at Trains"
 languageCode = "en-us"
 theme = "blank"
+
+[[menu.main]]
+    name = "Archive"
+    weight = -110
+    identifier = "archive"
+    url = "/"
+
+[[menu.main]]
+    name = "What is this?"
+    weight = -100
+    identifier = "whats-this"
+    url = "/post/what-is-this"
+
+[[menu.main]]
+ 	name = "Yell at me"
+ 	weight = -90
+ 	identifier = "contact"
+ 	url = "https://twitter.com/idreyn"
+
+ [[menu.main]]
+ 	name = "Other writing"
+ 	weight = -80
+ 	identifier = "medium"
+ 	url = "https://medium.com/@idreyn"
