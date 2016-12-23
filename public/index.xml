@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yelling at Trains</title>
-    <link>https://idreyn.github.io/yelling-at-trains/index.xml</link>
+    <link>https://yelling-at-trains.org/index.xml</link>
     <description>Recent content on Yelling at Trains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Dec 2016 16:33:44 -0600</lastBuildDate>
-    <atom:link href="https://idreyn.github.io/yelling-at-trains/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yelling-at-trains.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Are transit networks strong-link or weak-link systems?</title>
-      <link>https://idreyn.github.io/yelling-at-trains/post/strong-weak-transit/</link>
+      <link>https://yelling-at-trains.org/post/strong-weak-transit/</link>
       <pubDate>Thu, 22 Dec 2016 16:33:44 -0600</pubDate>
       
-      <guid>https://idreyn.github.io/yelling-at-trains/post/strong-weak-transit/</guid>
+      <guid>https://yelling-at-trains.org/post/strong-weak-transit/</guid>
       <description>
 
 &lt;p&gt;It&amp;rsquo;s a question as old as sports itself: can you go farther with a few standout players, or a deep bench of pretty good players? In Malcolm Gladwell&amp;rsquo;s &lt;a href=&#34;http://revisionisthistory.com/episodes/06-my-little-hundred-million&#34;&gt;&lt;em&gt;Revisionist History&lt;/em&gt; podcast&lt;/a&gt;, he argues that it depends on the sport, and frames the discussion by introducing a dichotomy between what he calls &amp;ldquo;strong-link&amp;rdquo; and &amp;ldquo;weak-link&amp;rdquo; systems. The capability of a strong-link system is dominated by that of the strongest link; for example, Gladwell argues that basketball teams are strong-link systems because their performance is dominated by that of the best player on the team; when you have a Steph Curry or Michael Jordan putting up 25-30 points every night, that&amp;rsquo;s a hard problem for any amount of teamwork by the opposition to overcome. By contrast, soccer teams are supposedly weak-link systems, whose capability is limited by its weakest players. Unlike in basketball where players can and regularly do score points on a drive without assistance from their teammates, a goal in a soccer game is a rare occurrence almost always preceded by a half-dozen well-executed passes getting someone in position to score. Lionel Messi simply can&amp;rsquo;t do much as a forward if he doesn&amp;rsquo;t have a strong backfield regularly putting together opportunities for him to shine.&lt;/p&gt;
@@ -22,7 +22,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/space-jam.gif&#34; alt=&#34;Pictured: the source of most of my basketball knowledge&#34; /&gt;
+        &lt;img src=&#34;https://yelling-at-trains.org/images/space-jam.gif&#34; alt=&#34;Pictured: the source of most of my basketball knowledge&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -57,7 +57,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/strong-link-system.png&#34; alt=&#34;A strong-link system concentrates most of its resources into a few lines, resulting in weak connectivity between almost all destination pairs.&#34; /&gt;
+        &lt;img src=&#34;https://yelling-at-trains.org/images/strong-link-system.png&#34; alt=&#34;A strong-link system concentrates most of its resources into a few lines, resulting in weak connectivity between almost all destination pairs.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -77,7 +77,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/weak-link-system.png&#34; alt=&#34;A weak-link system has few standouts, but provides reasonable service with strong transfers between many destinations.&#34; /&gt;
+        &lt;img src=&#34;https://yelling-at-trains.org/images/weak-link-system.png&#34; alt=&#34;A weak-link system has few standouts, but provides reasonable service with strong transfers between many destinations.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -97,7 +97,7 @@
 &lt;p&gt;Okay, confession time &amp;mdash; I am not entirely speaking in hypotheticals here. The dichotomy between strong-link and weak-link, to me, perfectly captures the difference between the transit system Metro Transit in the Twin Cities is building versus the one I believe it should. To be precise, the majority of the capital expenditure on transit in the region between 2014 and 2024 will be on building two light-rail lines which bypass dense and transit-dependent parts of Minneapolis in a mad dash to carry commuters in and out of the deep suburbs. Others, especially on &lt;a href=&#34;https://streets.mn&#34;&gt;streets.mn&lt;/a&gt;, have been beating this drum &lt;a href=&#34;https://streets.mn/2013/10/22/a-simplecomplicated-solution-to-the-southwest-corridor-situation/&#34;&gt;loudly&lt;/a&gt; and &lt;a href=&#34;https://streets.mn/2014/08/08/a-southwest-light-rail-explainer/&#34;&gt;much more skillfully&lt;/a&gt; for some time, but it suffices to say that although we are pouring large amounts of money into these projects, they are unlikely to serve the prime function of rapid transit, which is to move lots of people on all different types of trips, in a way that provides a new mobility alternative. We are building the strong-link system incarnate.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/oh-no-swlrt.png&#34;/&gt;
+    &lt;img src=&#34;https://yelling-at-trains.org/images/oh-no-swlrt.png&#34;/&gt;
     &lt;figcaption&gt;
     A nuanced critique of the Southwest LRT locally preferred alternative, with apologies to &lt;a href=&#39;https://www.facebook.com/webcomicname/&#39;&gt;Webcomic Name&lt;/a&gt;
     &lt;/figcaption&gt;
@@ -108,7 +108,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/abrt-composite.png&#34; alt=&#34;Left, a ton of aBRT. Right, an A Line stop not far from my house.&#34; /&gt;
+        &lt;img src=&#34;https://yelling-at-trains.org/images/abrt-composite.png&#34; alt=&#34;Left, a ton of aBRT. Right, an A Line stop not far from my house.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -134,7 +134,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/baltimore-red-line.jpg&#34; alt=&#34;The ill-fated Baltimore Red Line, which was rejected by Governor Larry Hogan in 2015. Since our president-elect is a fan of infrastructure and the &amp;#39;inner cities&amp;#39; I am sure this one will be fast-tracked by the FTA any day now.&#34; /&gt;
+        &lt;img src=&#34;https://yelling-at-trains.org/images/baltimore-red-line.jpg&#34; alt=&#34;The ill-fated Baltimore Red Line, which was rejected by Governor Larry Hogan in 2015. Since our president-elect is a fan of infrastructure and the &amp;#39;inner cities&amp;#39; I am sure this one will be fast-tracked by the FTA any day now.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>What is the meaning of this?</title>
-      <link>https://idreyn.github.io/yelling-at-trains/post/what-is-this/</link>
+      <link>https://yelling-at-trains.org/post/what-is-this/</link>
       <pubDate>Wed, 21 Dec 2016 21:04:05 -0600</pubDate>
       
-      <guid>https://idreyn.github.io/yelling-at-trains/post/what-is-this/</guid>
+      <guid>https://yelling-at-trains.org/post/what-is-this/</guid>
       <description>&lt;p&gt;For a long time I have been very vocal about transportation issues to my very forgiving friends and family. I&amp;rsquo;ve decided that rather than subject them to this madness directly I should start a blog &amp;ndash; this will also serve to help me practice writing clearly and organize my thoughts. I suspect this blog will mostly stay related to transit and urbanism since I spent so much time on the wonderful graphic in the header, but we&amp;rsquo;ll see what becomes of it. Welcome aboard!&lt;/p&gt;
 </description>
     </item>
