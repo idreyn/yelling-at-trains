@@ -1,8 +1,8 @@
-baseurl = "https://idreyn.github.io/yelling-at-trains/"
+baseurl = "https://idreyn.github.io/yelling-at-trains"
+canonifyURLs = true
 title = "Yelling at Trains"
 languageCode = "en-us"
-theme = "blank"
-canonifyURLs = true
+theme = "trains"
 
 [[menu.main]]
     name = "Archive"
