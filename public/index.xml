@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yelling at Trains</title>
+    <link>https://idreyn.github.io/yelling-at-trains/index.xml</link>
+    <description>Recent content on Yelling at Trains</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2016 16:33:44 -0600</lastBuildDate>
+    <atom:link href="https://idreyn.github.io/yelling-at-trains/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Are transit networks strong-link or weak-link systems?</title>
+      <link>https://idreyn.github.io/yelling-at-trains/post/strong-weak-transit/</link>
+      <pubDate>Thu, 22 Dec 2016 16:33:44 -0600</pubDate>
+      
+      <guid>https://idreyn.github.io/yelling-at-trains/post/strong-weak-transit/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s a question as old as sports itself: can you go farther with a few standout players, or a deep bench of pretty good players? In Malcolm Gladwell&amp;rsquo;s &lt;a href=&#34;http://revisionisthistory.com/episodes/06-my-little-hundred-million&#34;&gt;&lt;em&gt;Revisionist History&lt;/em&gt; podcast&lt;/a&gt;, he argues that it depends on the sport, and frames the discussion by introducing a dichotomy between what he calls &amp;ldquo;strong-link&amp;rdquo; and &amp;ldquo;weak-link&amp;rdquo; systems. The capability of a strong-link system is dominated by that of the strongest link; for example, Gladwell argues that basketball teams are strong-link systems because their performance is dominated by that of the best player on the team; when you have a Steph Curry or Michael Jordan putting up 25-30 points every night, that&amp;rsquo;s a hard problem for any amount of teamwork by the opposition to overcome. By contrast, soccer teams are supposedly weak-link systems, whose capability is limited by its weakest players. Unlike in basketball where players can and regularly do score points on a drive without assistance from their teammates, a goal in a soccer game is a rare occurrence almost always preceded by a half-dozen well-executed passes getting someone in position to score. Lionel Messi simply can&amp;rsquo;t do much as a forward if he doesn&amp;rsquo;t have a strong backfield regularly putting together opportunities for him to shine.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/space-jam.gif&#34; alt=&#34;Pictured: the source of most of my basketball knowledge&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pictured: the source of most of my basketball knowledge
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Okay, this is Yelling at Trains, not Yelling at Balls, and luckily for you, that last paragraph utterly exhausted the amount of conversation I can make about either sport&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. However, I do think the notion of strong-link and weak-link systems gives us an interesting lens through which to examine transit systems and the decisions made when planning them. This will mostly be a defense of weak-link thinking in transit, but not to the utter exclusion of strong links. Instead, as we will see, there is a time and a place for both, and successful transit planning hinges on knowing what kind of system to build in your time and place.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s start by trying to shoehorn transit systems into the strong/weak link analogy. The links in a transit system are the various services or lines that it provides, which connect to each other by a network of transfer points. We also need a baseline of agreement on what makes a transit system more or less effective. I&amp;rsquo;m picking metrics that are pretty central to accepted wisdom about transit but I invite you to BYOM, as it were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frequency:&lt;/strong&gt; how long do you usually have to wait to get a ride?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity:&lt;/strong&gt; how many people can we fit through this route per unit time?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; how fast do routes in the system run, and how do they compare to other available modes?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transfer quality:&lt;/strong&gt; how many transfers must one make to complete a trip in the system? Are transfers haphazard or coordinated, seamless or nerve-wracking?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amenities:&lt;/strong&gt; how clean, safe, and overall nice is the system to use? What information about the system is available and in what form? What concessions does it make to people with disabilities?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coverage:&lt;/strong&gt; what fraction of the people in a region have access to the transit system, conditioned on the frequency, throughput, and speed of the coverage the service they can access? Humoring me for a second, given &lt;span class=&#34;katex&#34;&gt;P(\vec{d})&lt;/span&gt; and &lt;span class=&#34;katex&#34;&gt;Q(\vec{d})&lt;/span&gt; which describe the population and quality of service, respectively, at location &lt;span class=&#34;katex&#34;&gt;\vec{d}&lt;/span&gt;, what is &lt;span class=&#34;katex&#34;&gt;\iint P(\vec{d})Q(\vec{d}) dA&lt;/span&gt; over the whole system?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With these metrics in mind, let&amp;rsquo;s imagine that we are allocated a limited amount of money to make improvements to an existing system (shouldn&amp;rsquo;t be hard), and we are to approach its design from both a strong-link and weak-link perspective. How would the planning process differ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;With a strong-link perspective&lt;/strong&gt;, the planning community would amass huge amounts of capital in providing top-tier service on a few select corridors. No expense would be spared in making this service high-capacity, frequent, and fast. These routes would also use the best vehicles and large, amenity-rich stations. We might be generous in assuming that the planners pick some really good routes to focus on, but even so it is inevitable that this concentration of effort will be of little benefit to most people who use the system. While a lucky few riders speed in and out of the city on gleaming light rail trains, an unfortunate many find that there is nothing left in the budget to run an extra bus or two down their corridor during peak hours, or replace barren where-is-the-bus-don&amp;rsquo;t-ask-me-I&amp;rsquo;m-just-a-sign bus stops with safe, warm, and informative bus shelters. In short, the overall coverage of the system suffers. &lt;em&gt;A strong-link system is built for people unlikely to need to transfer&lt;/em&gt; because the transfer from a high-quality to a low-quality service will be drastic enough to bring down the overall experience of using the system, and fewer people will use it.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/strong-link-system.png&#34; alt=&#34;A strong-link system concentrates most of its resources into a few lines, resulting in weak connectivity between almost all destination pairs.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A strong-link system concentrates most of its resources into a few lines, resulting in weak connectivity between almost all destination pairs.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;With a weak-link perspective&lt;/strong&gt;, it&amp;rsquo;s important to make sure that even the lower-quality services meet some level of human decency, or the system won&amp;rsquo;t be able to function for anyone. This might be because the planners recognize that the kinds of trips good transit supports (commuting, errands, recreation, being unable to slow down because there&amp;rsquo;s a bomb under the bus) require strong transfers and good coverage that supports a wide range of destinations. In contrast to a strong-link system, therefore, such a system needs to be able to bring people to many different areas of the city, often using more than one vehicle per trip. In practice, this might look like incremental and across-the-board improvements to the city&amp;rsquo;s bus network &amp;mdash; &lt;a href=&#34;http://usa.streetsblog.org/2016/01/04/ridership-on-the-upswing-after-houstons-bus-network-redesign/&#34;&gt;defining more sensible routes&lt;/a&gt;, increasing frequency, and making modest amenity improvements, like adding small heated shelters with real-time information to stops. The bus isn&amp;rsquo;t rapid transit and it will probably never feel that way, but by clearly demarcating stops, improving frequency, and chipping away at speed with signal priority and smart stop placement, we can afford to make pretty much everyone&amp;rsquo;s transit experience a bit better, especially those who actually rely on transit to get around.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/weak-link-system.png&#34; alt=&#34;A weak-link system has few standouts, but provides reasonable service with strong transfers between many destinations.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A weak-link system has few standouts, but provides reasonable service with strong transfers between many destinations.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;this-could-be-us-but-you-playin&#34;&gt;This could be us but you playin&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;Okay, confession time &amp;mdash; I am not entirely speaking in hypotheticals here. The dichotomy between strong-link and weak-link, to me, perfectly captures the difference between the transit system Metro Transit in the Twin Cities is building versus the one I believe it should. To be precise, the majority of the capital expenditure on transit in the region between 2014 and 2024 will be on building two light-rail lines which bypass dense and transit-dependent parts of Minneapolis in a mad dash to carry commuters in and out of the deep suburbs. Others, especially on &lt;a href=&#34;https://streets.mn&#34;&gt;streets.mn&lt;/a&gt;, have been beating this drum &lt;a href=&#34;https://streets.mn/2013/10/22/a-simplecomplicated-solution-to-the-southwest-corridor-situation/&#34;&gt;loudly&lt;/a&gt; and &lt;a href=&#34;https://streets.mn/2014/08/08/a-southwest-light-rail-explainer/&#34;&gt;much more skillfully&lt;/a&gt; for some time, but it suffices to say that although we are pouring large amounts of money into these projects, they are unlikely to serve the prime function of rapid transit, which is to move lots of people on all different types of trips, in a way that provides a new mobility alternative. We are building the strong-link system incarnate.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/oh-no-swlrt.png&#34;/&gt;
+    &lt;figcaption&gt;
+    A nuanced critique of the Southwest LRT locally preferred alternative, with apologies to &lt;a href=&#39;https://www.facebook.com/webcomicname/&#39;&gt;Webcomic Name&lt;/a&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A weak-link perspective on what Metro Transit could be is encapsulated in the &lt;a href=&#34;https://www.metrotransit.org/abrt&#34;&gt;arterial bus rapid transit&lt;/a&gt; (aBRT) plan, which calls for modestly upgraded bus service on key corridors throughout the Twin Cities. This year the first of our hopefully many aBRT services opened along Snelling Avenue. Branded the A Line, it connects both light rail lines and provides ten-minute frequencies throughout the day. Ridership on this corridor is up 35% over last year, and it&amp;rsquo;s not hard to see why. We now have clearly demarcated stops with updated information about bus arrivals, pay-on-platform, and heating; the buses have signal preemption and (at least for now) a new car smell. Minneapolis-Saint Paul is said to struggle with a strong rail bias; people are much more willing to ride the strongest-link train than a weaker-link bus. I contend that the ridership improvement on Snelling visible just a few months after the A Line opened is proof enough that MSP transit users don&amp;rsquo;t have a rail bias &amp;mdash; we have a bias for reliable and comfortable service that respects us the way light rail does, even if it doesn&amp;rsquo;t go DING-DING-DING and shine lights in your face when it arrives. aBRT is how the bus should be everywhere, and it turns out we can probably build a ton of it for about $325 million&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; which is &lt;a href=&#34;https://www.minnpost.com/politics-policy/2015/07/341-million-easy-way-how-southwest-light-rail-sort-got-its-budget-back-track&#34;&gt;about as much money as it costs to pick your nose arguing about bridges for a year&lt;/a&gt; instead of building light rail. Basically, we&amp;rsquo;d net the same number of new riders&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; as either of our high-profile light rail projects for a fraction of the cost, and build a bunch of highly-visible bus infrastructure in our urban core.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/abrt-composite.png&#34; alt=&#34;Left, a ton of aBRT. Right, an A Line stop not far from my house.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Left, a ton of aBRT. Right, an A Line stop not far from my house.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;a-time-for-strength&#34;&gt;A time for strength?&lt;/h2&gt;
+
+&lt;p&gt;Even as it strives to cast a wide net, a weak-link system need not be egalitarian to a fault. There are always going to be corridors that serve more people and deserve more attention, and these should be identified and prioritized. Nor does starting with a weak-link mindset preclude building rapid transit &amp;ndash; in fact, there is probably a stronger case to be made to the public for rapid transit when they already see the regular old buses serving people effectively all around the region than by asking taxpayers to cough up a few billion to squeeze latent demand out of the deep suburbs. For sustained and worthwhile investment in rapid transit, we first need a populace that sees the value in transit at all, and that means upgrading our bus network to first-world levels of service.&lt;/p&gt;
+
+&lt;p&gt;But are there scenarios when it makes sense to take a truly strong-link perspective as a transit advocate? In other words, could it ever do more good to spend a fixed sum on a single corridor instead of spreading it out into the network at large? We rarely get to confront this question directly because of the complex nature of transit funding; with money pouring in from municipal, state, and federal levels and siloed into the budgets for specific projects, the choice is all too often &amp;ldquo;this or nothing&amp;rdquo; instead of &amp;ldquo;this or that&amp;rdquo;. Still, I think there are times when advocating for a strong link makes sense, especially as dictated by geography.&lt;/p&gt;
+
+&lt;p&gt;Some cities have highly linear density. Chicago butts right up against Lake Michigan with its downtown area and many universities and landmarks within a few blocks of the waterfront. This means that the north-south Red Line is an absolute workhorse for the city &amp;mdash; I know car-less residents who almost never have to use any other transit service in the city because it is so convenient. The Island Line in Hong Kong also serves a similar purpose for Hong Kong Island (which is by no means the entire city). Others still have a single geographic bottleneck that must be overcome, and the system depends on the existence of a link through that bottleneck. The Transbay Tube between SF and Oakland, and perhaps someday &lt;a href=&#34;http://www.sfexaminer.com/think-tank-calls-for-second-bart-transbay-tube/&#34;&gt;Transbay Tube II: Electric Boogaloo&lt;/a&gt;, come to mind. These examples should be the guiding light for those fighting the good fight for single strong-link improvements like the cancelled &lt;a href=&#34;http://www.baltimoresun.com/news/opinion/editorial/bs-md-hogan-transportation-20150624-story.html&#34;&gt;Red Line in Baltimore&lt;/a&gt; (RIP) and the &lt;a href=&#34;http://www.northsouthraillink.org/&#34;&gt;North-South Rail Link&lt;/a&gt; in Boston (pls). These are super worthwhile projects, and their advocates should (and largely do) seek to show the public the degree to which they can singlehandedly take the region&amp;rsquo;s transit infrastructure to another level.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://idreyn.github.io/yelling-at-trains/images/baltimore-red-line.jpg&#34; alt=&#34;The ill-fated Baltimore Red Line, which was rejected by Governor Larry Hogan in 2015. Since our president-elect is a fan of infrastructure and the &amp;#39;inner cities&amp;#39; I am sure this one will be fast-tracked by the FTA any day now.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The ill-fated Baltimore Red Line, which was rejected by Governor Larry Hogan in 2015. Since our president-elect is a fan of infrastructure and the &amp;#39;inner cities&amp;#39; I am sure this one will be fast-tracked by the FTA any day now.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The key point is that strong-link planning seems to be most effective in areas that area already highly urban and served by fairly effective transit. We&amp;rsquo;ve seen time and time again in the United States that building a single high-quality rail line (or even several as Dallas has) through an otherwise car-dependent area will do little to change its urban fabric. Instead, I believe traditionally car-oriented cities should seek to quietly and incrementally improve the weak transit services they already have, building ridership and consciousness around transit even among those who don&amp;rsquo;t regularly use it. Appeasing the cruel mistress of transit funding often requires cohesive messaging and coalition-building, so these efforts need to be coordinated and branded under a single name as Metro Transit has done with aBRT. This unglamorous work will be rewarded when the time comes to start upgrading corridors to rapid transit, and planners and riders alike find that even a single LRT line can benefit from the &lt;a href=&#34;https://en.wikipedia.org/wiki/Network_effect&#34;&gt;network effect&lt;/a&gt; of existing, reliable bus transfers rather than attempting to shoulder the region&amp;rsquo;s transit hopes on its own.&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;Miracle&lt;/em&gt;, my favorite sports movie that is secretly an analogy for sound transit planning, coach Herb Brooks begs one of his star players not to try carrying the puck &amp;ldquo;coast to coast&amp;rdquo; and scoring on his own &amp;mdash; it&amp;rsquo;s a strategy that won&amp;rsquo;t work against the laser-focused teamwork of the Russian side. It&amp;rsquo;s only when the team strengthens their passing and formation fundamentals and galvanizes the link between every player on the ice that they begin to make progress. Building good transit in an auto-centric American city can feel like going up against the USSR in Olympic hockey, but the winning strategy is the same &amp;mdash; build the team, not the players, one pass at a time.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;I ran cross-country in high school because the soccer coach recommended it to me at tryouts.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Summing the cost estimates &lt;a href=&#34;https://www.metrotransit.org/Data/Sites/1/media/pdfs/atcs/ATCS%20Final%20Report.pdf&#34;&gt;here&lt;/a&gt; for the ten recommended corridors. Apply padding if you want, but the A Line was actually on budget.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;I arrived at a first-order approximation of this number by summing the &lt;a href=&#34;https://streets.mn/2015/01/28/chart-of-the-day-top-10-metro-transit-bus-routes-by-ridership-2014/&#34;&gt;ridership of the busiest ten MT bus routes&lt;/a&gt; and assuming a 35% ridership increase. Ridership metrics may also mask some troubling realities of strong-link planning. If SWLRT does well (and I kind of expect it will) we will see 30-40k new riders introduced into the MT system because we spent $2bn wooing them out of their cars in suburbia. This 30-40k might be a significant fraction of the system&amp;rsquo;s overall ridership, and it looks so great on paper that it&amp;rsquo;s easy to lose track of the fact that this $2bn did basically nothing for the existing riders who may be heavily dependent on transit or at least much more committed to using it.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is the meaning of this?</title>
+      <link>https://idreyn.github.io/yelling-at-trains/post/what-is-this/</link>
+      <pubDate>Wed, 21 Dec 2016 21:04:05 -0600</pubDate>
+      
+      <guid>https://idreyn.github.io/yelling-at-trains/post/what-is-this/</guid>
+      <description>&lt;p&gt;For a long time I have been very vocal about transportation issues to my very forgiving friends and family. I&amp;rsquo;ve decided that rather than subject them to this madness directly I should start a blog &amp;ndash; this will also serve to help me practice writing clearly and organize my thoughts. I suspect this blog will mostly stay related to transit and urbanism since I spent so much time on the wonderful graphic in the header, but we&amp;rsquo;ll see what becomes of it. Welcome aboard!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
