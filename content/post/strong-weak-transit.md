@@ -30,7 +30,7 @@ With these metrics in mind, let's imagine that we are allocated a limited amount
 
 {{<figure src="/images/weak-link-system.png" caption="A weak-link system has few standouts, but provides reasonable service with strong transfers between many destinations.">}}
 
-## This could be us but you playin'
+## This could be us but you playin
 
 Okay, confession time --- I am not entirely speaking in hypotheticals here. The dichotomy between strong-link and weak-link, to me, perfectly captures the difference between the transit system Metro Transit in the Twin Cities is building versus the one I believe it should. To be precise, the majority of the capital expenditure on transit in the region between 2014 and 2024 will be on building two light-rail lines which bypass dense and transit-dependent parts of Minneapolis in a mad dash to carry commuters in and out of the deep suburbs. Others, especially on [streets.mn](https://streets.mn), have been beating this drum [loudly](https://streets.mn/2013/10/22/a-simplecomplicated-solution-to-the-southwest-corridor-situation/) and [much more skillfully](https://streets.mn/2014/08/08/a-southwest-light-rail-explainer/) for some time, but it suffices to say that although we are pouring large amounts of money into these projects, they are unlikely to serve the prime function of rapid transit, which is to move lots of people on all different types of trips, in a way that provides a new mobility alternative. We are building the strong-link system incarnate.
 
