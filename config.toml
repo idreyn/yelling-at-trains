@@ -1,4 +1,4 @@
-baseurl = "https://idreyn.github.io/yelling-at-trains"
+baseURL = "https://idreyn.github.io/yelling-at-trains/"
 canonifyURLs = true
 title = "Yelling at Trains"
 languageCode = "en-us"
