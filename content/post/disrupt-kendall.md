@@ -1,6 +1,6 @@
 +++
 title = "Disrupt Kendall Square!"
-draft = true
+draft = false
 date = "2017-01-24T18:01:44-05:00"
 
 +++
