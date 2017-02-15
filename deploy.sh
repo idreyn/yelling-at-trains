@@ -1,20 +1,38 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# This script allows you to easily and quickly generate and deploy your website
+# using Hugo to your personal GitHub Pages repository. This script requires a
+# certain configuration, run the `setup.sh` script to configure this. See
+# https://hjdskes.github.io/blog/deploying-hugo-on-personal-github-pages/index.html
+# for more information.
 
-# Build the project.
+# Set the English locale for the `date` command.
+export LC_TIME=en_US.UTF-8
+
+# GitHub username.
+USERNAME=idreyn
+# Github repo name
+REPO=yelling-at-trains
+# Name of the branch containing the Hugo source files.
+SOURCE=hugo
+# The commit message.
+MESSAGE="Site rebuild $(date)"
+
+msg() {
+    printf "\033[1;32m :: %s\n\033[0m" "$1"
+}
+
+msg "Pulling down the \`master\` branch into \`public\` to help avoid merge conflicts"
+git subtree pull --prefix=public \
+	git@github.com:$USERNAME/$REPO.git origin master -m "Merge origin master"
+
+msg "Building the website"
 hugo
 
-# Add changes to git.
-git add -A
+msg "Pushing the updated \`public\` folder to the \`$SOURCE\` branch"
+git add public
+git commit -m "$MESSAGE"
+git push origin "$SOURCE"
 
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
-fi
-git commit -m "$msg"
-
-# Push source and build repos.
-git push origin master
-git subtree push --prefix=public git@github.com:idreyn/yelling-at-trains.git gh-pages --force
+msg "Pushing the updated \`public\` folder to the \`master\` branch"
+git push origin `git subtree split --prefix public`:master --force
