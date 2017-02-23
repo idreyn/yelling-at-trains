@@ -27,3 +27,9 @@ theme = "trains"
  	weight = -80
  	identifier = "medium"
  	url = "https://medium.com/@idreyn"
+
+ [[menu.main]]
+ 	name = "RSS"
+ 	weight = -80
+ 	identifier = "rss"
+ 	url = "/index.xml"
