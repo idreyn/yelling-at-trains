@@ -5,6 +5,12 @@ html, body {
 	margin: 0;
 }
 
+blockquote {
+	border-left: 4px solid black;
+	padding-left: 10px;
+	box-sizing: content-box;
+}
+
 li {
 	list-style-type: square;
 }
@@ -128,9 +134,18 @@ article figure {
 	text-align: center;
 }
 
+article iframe {
+	display: block;
+	margin: 0 auto;
+}
+
 figure img {
 	max-width: 100%;
 	max-height: 300px;
+}
+
+figure.img-large img {
+	max-height: 500px;
 }
 
 figure figcaption {
