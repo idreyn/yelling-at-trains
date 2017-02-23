@@ -1,4 +1,4 @@
-baseURL = "https://yelling-at-trains.org/"
+baseURL = "http://yelling-at-trains.org/"
 canonifyURLs = true
 title = "Yelling at Trains"
 languageCode = "en-us"
