@@ -14,7 +14,7 @@ USERNAME=idreyn
 # Github repo name
 REPO=yelling-at-trains
 # Name of the branch containing the Hugo source files.
-SOURCE=hugo
+SOURCE=master
 # The commit message.
 MESSAGE="Site rebuild $(date)"
 
