@@ -4,8 +4,6 @@ draft = false
 date = "2017-02-22T11:00:00-05:00"
 +++
 
-*This post is weeks late and doesn't have that much to do with transit, but is about a city I love and have been very proud to live in for the past four years. I just finished an internship with the MTA in New York so I will probably be back to my regularly scheduled yelling at trains soon.*
-
 A few weeks ago, my MIT inbox dinged with a piece of exciting news --- President Reif announced that the university has secured the rights to redevelop a huge part of adjacent Kendall Square that is currently owned by the US Department of Transportation. Kendall is the epicenter of Cambridge's tech community and even if you spend as much time pounding down overpriced quinoa bowls there as I do, you may not be aware that the USDOT's Volpe Center research facility is tucked right behind the Marriott on Broadway, in an imposing but mostly nondescript building that you can't get into without a passport and a blood sample. This is a huge opportunity --- maybe our last opportunity --- to start building a real neighborhood out of what could currently be better described as a gleaming pileup of biotech buildings. MIT treasurer Israel Ruiz laid out MIT's broad vision in [an interview with MIT News](http://news.mit.edu/2017/3q-israel-ruiz-investment-volpe-center-0118) where, perhaps in an attempt to spot-fix a game of Silicon Valley buzzword bingo, he used the phrase "innovation ecosystem" five times in the space of three questions.
 
 {{<figure src="/images/middle-out.png" caption="Pictured: MIT trying to figure out how many times it can fit the word 'innovate' into a single press release">}}
