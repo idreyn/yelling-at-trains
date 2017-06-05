@@ -6,8 +6,77 @@
     <description>Recent content on Yelling at Trains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2017 11:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 12:49:42 -0500</lastBuildDate>
     <atom:link href="http://yelling-at-trains.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Boston&#39;s Red-Blue Connector is a state-of-good-repair problem</title>
+      <link>http://yelling-at-trains.org/post/red-blue/</link>
+      <pubDate>Mon, 05 Jun 2017 12:49:42 -0500</pubDate>
+      
+      <guid>http://yelling-at-trains.org/post/red-blue/</guid>
+      <description>&lt;p&gt;When transit advocates in Boston call for expansions of the T, the standard response from on high is that for the foreseeable future, we need to focus on what the FTA calls &lt;a href=&#34;https://www.transit.dot.gov/regulations-and-guidance/asset-management/state-good-repair&#34;&gt;&amp;ldquo;State of Good Repair&amp;rdquo;&lt;/a&gt; &amp;mdash; keeping our existing track, stations, and vehicles in decent condition. While this can sometimes feel like a &amp;ldquo;shove off, we don&amp;rsquo;t have the money&amp;rdquo;, it&amp;rsquo;s a pragmatic stance, and to their credit, the MBTA is actually in the middle of a push for such investment, with orders for new Red and Orange Line cars in the works and improved signaling and winterization schemes in the pipeline. By and large, prioritizing maintenance over expansion is a sound principle and I am not here to challenge it. Instead, I want to dig a bit deeper into the assumptions made when dichotomizing capital investments into &amp;ldquo;expansion&amp;rdquo; versus &amp;ldquo;maintenance&amp;rdquo;. Broadly speaking:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Expansion&lt;/strong&gt; means new revenue service to new places, adding new transit users to the system and putting additional stress on existing infrastructure. We can&amp;rsquo;t &amp;ldquo;do&amp;rdquo; expansion right now because it would be unsustainable and irresponsible to redirect resources to new parts of the system when existing ones are not being adequately maintained.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Maintenance&lt;/strong&gt; means making investments that will allow us to more effectively use the infrastructure we already have. It means updating outdated technologies (like switching from block signaling to &lt;a href=&#34;https://en.wikipedia.org/wiki/Communications-based_train_control&#34;&gt;communications-based train control&lt;/a&gt;) and fixing historic mistakes (oh god the &lt;a href=&#34;https://en.wikipedia.org/wiki/Green_Line_(MBTA)#/media/File:Longwood_MBTA_station,_Brookline_MA.jpg&#34;&gt;Type 8&amp;rsquo;s&lt;/a&gt;) that have caused inefficiency to creep into the system over time. Generally speaking this means not adding new riders &lt;em&gt;per se&lt;/em&gt;, although it might increase the overall capacity of the system. Capital investment in this category must be ongoing and sustainable, and we have a lot of backlog here to slog through before we can think about &amp;ldquo;expansion&amp;rdquo;. Specific examples include: modernizing signaling systems, replacing rolling stock, cleaning and modernizing stations, etc.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This distinction has found its way into a lot of discussion over transit investment in Boston and other cities with legacy systems. I wish to pose the question of whether a project might exist that is incorrectly categorized as reckless expansion when it actually lives much closer on the spectrum to &amp;ldquo;sound maintenance&amp;rdquo; projects like new signaling systems and the Government Center overhaul. I think the Red-Blue connector is such a project.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://yelling-at-trains.org/images/missing-blue-segment.png&#34; alt=&#34;The distance between Bowdoin, the Blue Line&amp;#39;s current terminus, and the Charles/MGH Red Line station. Let&amp;#39;s all stare at this image and collectively will the black segment into existence.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The distance between Bowdoin, the Blue Line&amp;#39;s current terminus, and the Charles/MGH Red Line station. Let&amp;#39;s all stare at this image and collectively will the black segment into existence.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The fact that the Red and Blue lines don&amp;rsquo;t connect, even though the Blue Line terminates about 2,000 feet from Charles/MGH, is a head-scratcher for tourists, frustration for commuters, and increasingly, a bottleneck on the capacity of our core subway system. Though the state was made to study the option as a Big Dig mitigation project, it was deemed too expensive and shelved, though the $750 million price tag given by MassDOT is for an &lt;a href=&#34;http://amateurplanner.blogspot.com/2016/09/how-massdot-stacks-deck-red-blue-edition_7.html&#34;&gt;absurdly over-engineered version&lt;/a&gt; that would make it the most expensive piece of subway per mile in the nation.&lt;/p&gt;
+
+&lt;p&gt;Whatever the actual price of construction, the price of ignoring Red-Blue is becoming increasingly apparent as our core stations groan under the weight of over 100,000  daily transfers&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:This-is-the-tota&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:This-is-the-tota&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Because of its absence, commuters treat the existing downtown transfer stations as a sort of superstation where the Green and Orange lines serve as a glorified moving walkway&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Hong-Kong-has-an&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:Hong-Kong-has-an&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; to get between Red and Blue platforms. The increased footfall puts stress on stations like Park Street and Government Center and overcrowds the barely adequate Red, Green, and Orange line cars while the Blue Line cruises around far under capacity downtown. This crowding has ripple effects throughout the system; at a Kendall Square Mobility Task Force meeting I attended (awkwardly sat in the back of and ate four oatmeal cookies) it was mentioned that the &lt;a href=&#34;https://www.cambridgema.gov/cdd/projects/transportation/~/media/C7942C92FA4B4551B7DD54B1D831CE5B.ashx&#34;&gt;variability of train dwell times at Park Street is a primary bottleneck for throughput on the Red Line&lt;/a&gt;. Extending the Blue Line about half a mile would improve the capacity of every other subway line in the system by better balancing the flow of downtown commuters throughout existing stations. &lt;em&gt;It lets us use our existing infrastructure more effectively&lt;/em&gt; &amp;mdash; sounds familiar, no?&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://yelling-at-trains.org/images/blue-line-shirt.png&#34; alt=&#34;I want this on a shirt, but no one will print it for me because trademarks&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        I want this on a shirt, but no one will print it for me because trademarks
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A Red-Blue transfer is not a &amp;ldquo;would be nice someday&amp;rdquo; like the North-South Rail Link or a Green Line connection to the Seaport. It&amp;rsquo;s not even an I Can&amp;rsquo;t Believe It&amp;rsquo;s Not Built Yet™ in the same vein as the Blue Line to Lynn. The fact that these two lines don&amp;rsquo;t connect is a fundamental shortcoming of the topology of our subway network. When Governor Baker and the Fiscal and Managment Control Board triage the problems that the MBTA faces today, the Red-Blue connector needs to be bucketed not with other subway extensions, but with issues like vehicle procurement and signaling upgrades, and maybe just a notch below &amp;ldquo;the trains are literally on fire&amp;rdquo;. It&amp;rsquo;s an embarrassment that deserves our full attention the moment the Green Line Extension checks clear.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:This-is-the-tota&#34;&gt;This is the total number of Red-Green and Red-Orange transfers as given at the bottom of page 16 of the &lt;a href=&#34;http://www.mbta.com/uploadedfiles/documents/2014%20BLUEBOOK%2014th%20Edition(1).pdf&#34;&gt;2014 MBTA Blue Book.&lt;/a&gt; &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:This-is-the-tota&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:Hong-Kong-has-an&#34;&gt;Hong Kong has an actual moving walkway between its adjacent Central and Admiralty stations, and it&amp;rsquo;s pretty cool. I have been told by folks at the T that an equivalent connector between State Street and Downtown Crossing is probably impossible due to the geometry of the stations. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Hong-Kong-has-an&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Disrupt Kendall Square!</title>
