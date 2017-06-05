@@ -3,6 +3,7 @@ canonifyURLs = true
 title = "Yelling at Trains"
 languageCode = "en-us"
 theme = "trains"
+publishDir = "docs"
 
 [[menu.main]]
     name = "Archive"
