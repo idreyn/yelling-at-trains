@@ -23,7 +23,7 @@ Just from a glance at our subway map, the benefit of the North-South Rail Link (
 - MBTA operations become a lot more efficient, since the trains and equipment belonging to the two halves of the network are no longer isolated from each other.
 - The ride from North to South Station would become faster even for people travelling within downtown.
 
-But with an [estimated a price tag between $4 and $6 billion](https://www.hks.harvard.edu/sites/default/files/centers/rappaport/files/NSRL%20White%20Paper_Silver_Final.pdf) kindly estimated by the wicked smaaht folks up at Harvard, it's crucial to understand that rationale for building the Link goes way beyond getting commuters from North to South Station -- it's about enabling a better kind of rail service on the strong skeleton the Commuter Rail provides. When a small but growing group of NSRL advocates like Congressman Seth Moulton say that [the project would add _100,000 new daily trips_](https://moulton.house.gov/wp-content/uploads/2016/08/NEC-Slide-Deck-.pdf) to Boston's rail network, this is what they have in mind. This vision is hard to compare to any existing system in the United States, but far from being a new idea, it falls into a well-established pattern of rail service in Europe and Asia. So to really understand why Boston should build the NSRL, let's book the cheapest WOW! Airlines flight we can find[^0] and make our way to the transit Mecca of Berlin, Germany.
+But with [a price tag between $4 and $6 billion](https://www.hks.harvard.edu/sites/default/files/centers/rappaport/files/NSRL%20White%20Paper_Silver_Final.pdf) kindly estimated by the wicked smaaht folks up at Harvard, it's crucial to understand that rationale for building the Link goes way beyond getting commuters from North to South Station -- it's about enabling a better kind of rail service on the strong skeleton the Commuter Rail provides. When a small but growing group of NSRL advocates like Congressman Seth Moulton say that [the project would add _100,000 new daily trips_](https://moulton.house.gov/wp-content/uploads/2016/08/NEC-Slide-Deck-.pdf) to Boston's rail network, this is what they have in mind. This vision is hard to compare to any existing system in the United States, but far from being a new idea, it falls into a well-established pattern of rail service in Europe and Asia. So to really understand why Boston should build the NSRL, let's book the cheapest WOW! Airlines flight we can find[^0] and make our way to the transit Mecca of Berlin, Germany.
 
 ## An old, new kind of rail system
 Assuming your WOW! flight ever gets off the ground, you won't get far in Berlin before spotting this practical, unfussy map of its rail network:
@@ -63,7 +63,7 @@ Even understanding the benefits that S-Bahn style service would provide to Great
 <figure class="img">
     <img src="/images/deadheads.jpg"/>
     <figcaption>
-        Moving passenger trains without carrying passengers is known in the industry as "deadheading", but is unfortunately best done outside the influence of psychedelic drugs. (<a href="http://blog.urbanoutfitters.com/blog/deadhead_fashion">Source, but attribution unknown</a>)
+        Moving passenger trains without carrying passengers is known in the industry as "deadheading", but is unfortunately best done outside the influence of psychedelic drugs. (<a href="http://blog.urbanoutfitters.com/blog/deadhead_fashion">Photo source, but attribution information unavailable</a>)
     </figcaption>
 </figure>
 
