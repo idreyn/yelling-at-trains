@@ -33,7 +33,7 @@ When describing systems of all kinds, engineers use the terms _throughput_ and _
     <img src="/images/laundry/washer.png" alt="A washing machine with a latency of 0.5 hours has a throughput of two loads per hour"/>
 </figure>
 
-But laundry, like traffic, is a process that happens in sequential stages:
+But laundry, like traffic, is a process that happens in sequential stages, going from the washer to the dryer before reaching its final destination, a pile on the floor:
 
 <figure class="img img-small">
     <img src="/images/laundry/washer-dryer.png" alt="A washing machine with a latency of 0.5 hours per load has a throughput of 2 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour."/>
