@@ -144,6 +144,14 @@ figure img {
 	max-height: 300px;
 }
 
+figure .video {
+		margin-bottom: 5px;
+}
+
+figure.img-small img {
+	max-height: 200px;
+}
+
 figure.img-large img {
 	max-height: 500px;
 }
@@ -152,6 +160,10 @@ figure figcaption {
 	font-size: 0.8em;
 	line-height: 1.2em;
 	font-style: italic;
+}
+
+figure figcaption i {
+		font-style: normal !important;
 }
 
 sup {
