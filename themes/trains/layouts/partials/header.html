@@ -8,6 +8,9 @@
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+	<link rel="icon" type="image/png" href="/favicons/favicon-16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicons/favicon-1024.png" sizes="1024x1024">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
