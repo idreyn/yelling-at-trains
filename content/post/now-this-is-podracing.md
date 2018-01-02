@@ -27,7 +27,7 @@ For a system that interfaces with an urban street network, the answer turns out 
 
 ## Laundry, latency, and lanes
 
-When describing systems of all kinds, engineers use the terms _throughput_ and _latency_ to formalize these concepts of effectiveness. Throughput is the total number of items of some kind a system can process --- a transit network's throughput is measured in passengers per hour. Latency is the time it takes for an individual item to be processed, or in our case for an individual to make a journey through a network. I first encountered these terms in a class about computer processor design, which used laundry machines to analogize this concept. With a single laundry machine, the latency and throughput are simple inversions of each other; the faster the machine finishes a load, the more loads per hour you can run:
+When describing systems of all kinds, engineers use the terms _throughput_ and _latency_ to formalize these concepts of effectiveness. Throughput is the total number of items of some kind a system can process --- a transit network's throughput is measured in passengers per hour. Latency is the time it takes for an individual item to be processed, or in our case for an individual to make a journey through a network. I first encountered these terms in a class about computer processor design, which used laundry machines to analogize the concepts. With a single laundry machine, the latency and throughput are simple inversions of each other; the faster the machine finishes a load, the more loads per hour you can run:
 
 <figure class="img img-small">
     <img src="/images/laundry/washer.png" alt="A washing machine with a latency of 0.5 hours has a throughput of two loads per hour"/>
