@@ -45,7 +45,7 @@ The latency of this kind of system is the _sum_ of the latencies of each stage, 
     <img src="/images/laundry/washer-dryer-musky.png" alt="A happy Elon Musk waves a magic wand. A washing machine with a latency of 0.1 hours per load has a throughput of 10 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour."/>
 </figure>
 
-Since we've clobbered the latency of this stage, we've drastically reduced the latency of the entire system, right? Well, no. In the rush to get away from traffic we've utterly forgotten why it exists in the first place. We don't have highway congestion because the latency of a highway is large; it's because the throughput of the city streets is capped, leading to a situation more like this:
+Since we've clobbered the latency of this stage, we've drastically reduced the latency of the entire system, right? Well, no. In the rush to get away from traffic we've utterly forgotten why it exists in the first place. We don't have highway congestion because the latency of a highway is large; it's because the throughput of the city streets that the highway leads to is capped, leading to a situation more like this:
 
 <figure class="img img-small">
         <img src="/images/laundry/washer-dryer-musky-pileup.png" alt="A frustrated Elon Musk waves a magic wand. A washing machine with a latency of 0.1 hours per load has a throughput of 10 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour. But the mismatch in latencies between the two machines causes a pileup of laundry waiting to be put into the dryer."/>
