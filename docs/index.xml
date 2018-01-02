@@ -6,8 +6,108 @@
     <description>Recent content on Yelling at Trains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2017 21:50:58 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 23:45:00 -0600</lastBuildDate>
     <atom:link href="http://yelling-at-trains.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Now this is podracing!</title>
+      <link>http://yelling-at-trains.org/post/now-this-is-podracing/</link>
+      <pubDate>Mon, 01 Jan 2018 23:45:00 -0600</pubDate>
+      
+      <guid>http://yelling-at-trains.org/post/now-this-is-podracing/</guid>
+      <description>
+
+&lt;p&gt;Another year, another startup claiming to have solved urban congestion &amp;mdash; this time it&amp;rsquo;s Arrivo, which has announced &amp;ldquo;the end of traffic&amp;rdquo; and dropped a slick video of their vision for travel in the 21st century, involving private vehicles loaded onto maglev pods and rocketed along highway medians at 200 miles per hour. A surfer dude pulls on a wetsuit at Mach 0.25 before we jump-cut to the beach in time for to shed some early morning gnar. A woman smiles in delight as her pod informs her that she has been TSA pre-checked, presumably having automatically disposed of her favorite water bottle for containing too much liquid. There&amp;rsquo;s a tantalizing multimodality to the video; connections to existing transit are emphasized and it appears that some pods can be boarded on foot and linked together like (very) low-occupancy trains. &lt;a href=&#34;https://www.producthunt.com/posts/arrivo&#34;&gt;On Product Hunt&lt;/a&gt; it is described, alas, like &amp;ldquo;if Hyperloop One AND Elon Musk&amp;rsquo;s The Boring Company had a baby.&amp;rdquo; In fact, by inbreeding Ol&amp;rsquo; Musky&amp;rsquo;s two paper-napkin concepts of future mobility they&amp;rsquo;ve managed to extract the worst parts of each: the Hyperloop&amp;rsquo;s uphill battle to productionize maglev technology and the Boring Company&amp;rsquo;s cars-on-a-pod idea with its fundamental capacity constraints.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XwIU4UnJy2o?rel=0&#34; frameborder=&#34;0&#34; gesture=&#34;media&#34; allow=&#34;encrypted-media&#34; class=&#34;video&#34; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;figcaption&gt;
+        My startup idea also involves putting cars on skates, but for a musical extravaganza called &lt;i&gt;The 405 On Ice&lt;/i&gt;.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Startups like Arrivo are fixated the promise that vehicles with enormous top speeds will lead directly to faster travel times in urban areas. This is apparent in their specious claim of a 35-mile journey through Denver in &amp;lt;10 minutes, which is possible only if the vehicle is moving at top speed for the entire journey and accelerates at bone-liquefying speeds. Passing off your proposed maximum speed as an average speed to professional journalists is great fun, but how fast your hyper-sled-pods can move is really the less important half of the puzzle.
+A related but much more revealing question is: &lt;em&gt;how many pods can you run?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For a system that interfaces with an urban street network, the answer turns out to have very little to do with top speed. Arrivo founder Brogan BamBrogan&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:0&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:0&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; claims that his proposed network &lt;a href=&#34;https://arstechnica.com/information-technology/2017/11/colorado-dot-is-partnering-with-hyperloop-offshoot-to-build-denver-test-track/?comments=1&#34;&gt;can carry 20,000 cars where a normal freeway lane could handle 2,900-5,500&lt;/a&gt;. Put simply, this estimate is only in the ballpark of accuracy if you ignore the fact that vehicles need to exit the system. Low-occupancy vehicles that merely zip along an infinite highway can be very fast but aren&amp;rsquo;t all that useful; eventually, their occupants want to get somewhere interesting where they can park their vehicle, walk around, and live their lives. In other words, they want to merge into urban traffic. The choke point where your podracing network meets the street where you have to drive yourself around like a pleb will function just like a highway off-ramp (plus a pod unloading stage), and the number of vehicles that can perform this process per hour will ultimately determine how many vehicles can utilize your network.&lt;/p&gt;
+
+&lt;figure class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://yelling-at-trains.org/images/podracing.png&#34; alt=&#34;Young Anakin Skywalker on his podracer&#34;/&gt;
+    &lt;figcaption&gt;
+       Crap, I missed my exit! &lt;a href=&#34;https://mygeekblasphemy.com/2016/02/04/im-a-person-and-my-name-is-anakin/&#34;&gt;(source)&lt;/a&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;laundry-latency-and-lanes&#34;&gt;Laundry, latency, and lanes&lt;/h2&gt;
+
+&lt;p&gt;When describing systems of all kinds, engineers use the terms &lt;em&gt;throughput&lt;/em&gt; and &lt;em&gt;latency&lt;/em&gt; to formalize these concepts of effectiveness. Throughput is the total number of items of some kind a system can process &amp;mdash; a transit network&amp;rsquo;s throughput is measured in passengers per hour. Latency is the time it takes for an individual item to be processed, or in our case for an individual to make a journey through a network. I first encountered these terms in a class about computer processor design, which used laundry machines to analogize this concept. With a single laundry machine, the latency and throughput are simple inversions of each other; the faster the machine finishes a load, the more loads per hour you can run:&lt;/p&gt;
+
+&lt;figure class=&#34;img img-small&#34;&gt;
+    &lt;img src=&#34;http://yelling-at-trains.org/images/laundry/washer.png&#34; alt=&#34;A washing machine with a latency of 0.5 hours has a throughput of two loads per hour&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But laundry, like traffic, is a process that happens in sequential stages:&lt;/p&gt;
+
+&lt;figure class=&#34;img img-small&#34;&gt;
+    &lt;img src=&#34;http://yelling-at-trains.org/images/laundry/washer-dryer.png&#34; alt=&#34;A washing machine with a latency of 0.5 hours per load has a throughput of 2 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour.&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The latency of this kind of system is the &lt;em&gt;sum&lt;/em&gt; of the latencies of each stage, and its throughput is the &lt;em&gt;minimum&lt;/em&gt; of the throughputs of all the stages. So in the washer-dryer system above, we&amp;rsquo;ll never do better than about 1.33 loads per hour, and the mismatch between the two machines&amp;rsquo; latencies is reflected in a queue of increasingly wrinkled laundry waiting to enter the dryer. Now let&amp;rsquo;s consider the effect of an Arrivo-style proposal to decrease the latency of a single stage:&lt;/p&gt;
+
+&lt;figure class=&#34;img img-small&#34;&gt;
+    &lt;img src=&#34;http://yelling-at-trains.org/images/laundry/washer-dryer-musky.png&#34; alt=&#34;A happy Elon Musk waves a magic wand. A washing machine with a latency of 0.1 hours per load has a throughput of 10 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour.&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Since we&amp;rsquo;ve clobbered the latency of this stage, we&amp;rsquo;ve drastically reduced the latency of the entire system, right? Well, no. In the rush to get away from traffic we&amp;rsquo;ve utterly forgotten why it exists in the first place. We don&amp;rsquo;t have highway congestion because the latency of a highway is large; it&amp;rsquo;s because the throughput of the city streets is capped, leading to a situation more like this:&lt;/p&gt;
+
+&lt;figure class=&#34;img img-small&#34;&gt;
+        &lt;img src=&#34;http://yelling-at-trains.org/images/laundry/washer-dryer-musky-pileup.png&#34; alt=&#34;A frustrated Elon Musk waves a magic wand. A washing machine with a latency of 0.1 hours per load has a throughput of 10 loads per hour, and it feeds clothing into a dryer with a latency of 0.75 hours per load and thus a throughput of about 1.33 loads per hour. But the mismatch in latencies between the two machines causes a pileup of laundry waiting to be put into the dryer.&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;No matter how fast we can make these vehicles go and how closely they can follow one another, they can&amp;rsquo;t exit the Arrivo system any more quickly than the urban street grid can accept them, making this system as functionally useful as an extra freeway lane at rush hour (of the kind that &lt;a href=&#34;https://www.nytimes.com/2016/12/20/us/los-angeles-drivers-on-the-405-ask-was-1-6-billion-worth-it.html&#34;&gt;increased peak travel latencies in LA&lt;/a&gt;). Bounded by the throughput of urban streets running at capacity during rush hour, the Arrivo network will be a very fast trip into a very long queue to get onto the street: the epitome of &lt;a href=&#34;https://www.youtube.com/watch?v=3g_WWoIePns&#34;&gt;&amp;ldquo;showing up early just to wait in line&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The throughput of single-occupancy vehicles in a city quickly brushes up against constraints fundamental to the very purpose of urban planning, which is to create desirable places for people to live their lives. We can&amp;rsquo;t increase the speed at which vehicles travel through the city without making it unsafe for pedestrians. We can&amp;rsquo;t widen roads or build more parking without cutting into space for activites that are valuable in both economic and human terms. These aren&amp;rsquo;t hypotheticals &amp;mdash; we &lt;em&gt;tried&lt;/em&gt; doing all of these things in the age of the interstate, rended the fabric of our cities, and are now spending &lt;a href=&#34;http://theplan.metro.net/&#34;&gt;billions upon billions of dollars&lt;/a&gt; to re-apply urban planning principles we had figured out before WWII. With a model that relies on increased throughput of cars through urban spaces, Arrivo endeavours to build a system that grafts technology that is so 21st century that it doesn&amp;rsquo;t even exist yet onto the very worst of 20th century urban planning.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-part-where-i-tell-you-trains-are-cool&#34;&gt;The part where I tell you trains are cool&lt;/h2&gt;
+
+&lt;p&gt;In America, we struggle to effectively finance transportation projects built from proven and cost-effective technologies, to say nothing of autonomous maglev pods. Imagining for a second that there was money floating (heh) around to build such a system, the immediately obvious thing to do is close it off from city streets and run high-capacity vehicles, called &lt;em&gt;trains&lt;/em&gt; in industry jargon, instead of car-pods. Why?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;By isolating the right-of-way from street traffic entirely, it becomes much easier to reason about the expected throughput of the system, because vehicles don&amp;rsquo;t have to merge &amp;mdash; they just run back and forth&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Until the system exceeds &amp;ldquo;crush load&amp;rdquo; capacity where passengers are struggling to board the vehicles, the &lt;em&gt;vehicle&lt;/em&gt; throughput has little relation to &lt;em&gt;passenger&lt;/em&gt; throughput, which is what we ultimately care about.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t just a question of access and equity &amp;ndash; it&amp;rsquo;s a business concern, too. If you&amp;rsquo;re operating a maglev network and faced with the choice of running car-pods or trains, the number you&amp;rsquo;re going to be concerned about is the &lt;em&gt;farebox recovery ratio&lt;/em&gt;, which describes the percentage of operating costs that are covered by user fees:&lt;/p&gt;
+
+&lt;div class=&#34;katex&#34; style=&#34;text-align:center;font-size:20px&#34;&gt;
+    FRR = \frac{(price \space of \space ride) \times (number \space of \space riders)}{(fixed \space operating \space cost) + (marginal \space rider \space cost) \times (number \space of \space riders)}
+&lt;/div&gt;
+
+&lt;p&gt;There is no part of this equation that favors car-pods. Farebox recovery is a numbers game &amp;mdash; the more riders the system supports, the less you have to charge each of them for each ride, and roughly speaking, a subway can deposit about an order of maginitude more people into a city at rush hour than a highway lane. The marginal cost of each car-pod rider is huge compared to a train as well. Electricity isn&amp;rsquo;t free, and cars weigh 30-40x what their occupants do and will be proportionally more expensive to transport. Then there&amp;rsquo;s the fixed operating cost of maintaining a fleet of many more car-pods than will saturate the network so that they can roam the streets looking for passengers. With a tiny capacity compared to a metro and much higher operating and marginal costs, riders would be looking at paying 10-30x the cost of a subway ride to match the farebox recovery ratios of American subway lines &amp;ndash; for instance, Boston&amp;rsquo;s Red Line operates at or over capacity every rush hour and still operates at a loss &lt;a href=&#34;http://carmensunion589.org/2015/04/is-gov-bakers-special-panel-evaluating-the-mbta-fai/&#34;&gt;with an FRR of 60%&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I could be wrong! I often am! Demand for such a service could soar, allowing the operator to charge truly exorbitant rates and make a profit on operations. I wouldn&amp;rsquo;t be surprised if there were a few thousand people who would pay $200 to shave a few minutes off of their commute through Manhattan every rush hour, but I doubt there are many who take Colorado&amp;rsquo;s E-470 toll road ringing Denver, where the initial Arrivo segment is proposed. Moreover, I can&amp;rsquo;t emphasize enough that none of this has anything to do with the unknowably high capital cost of actually constructing such a network, which must either be offset by further increases in fares or justified as a public expenditure, as we do for proposals that represent a public good. Arrivo will bear neither. No government should commit funding for it, and no investor in their right mind would expect a return on its construction.&lt;/p&gt;
+
+&lt;p&gt;As much as I have written a few thousand words ragging on Arrivo, I would really like the Silicon Valley set to make a serious contribution to the problems of urban transit. But where the Boring Company is at least trying to lower tunneling costs, which is a win for effective mass transit as well as whatever Elon has verbal government approval to build today, Arrivo offers nothing to advance the conversation about urban congestion. The technology they&amp;rsquo;re chasing may have enormous value and I wish them all the best in developing it, but it would hardly be worse at &amp;ldquo;ending traffic&amp;rdquo; if their proposed maglev lanes featured a Hot Wheels loop-de-loop in the middle. We don&amp;rsquo;t need a bunch of guys in a kitchy LA garage-office to tell us that shooting large vehicles on top of larger vehicles down a magnetic track is cool as hell, but won&amp;rsquo;t solve urban congestion. There&amp;rsquo;s a Silicon Valley truism that &amp;ldquo;those who say it can&amp;rsquo;t be done should get out of the way of those who are doing it&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. My blog that no one reads will not get in Arrivo&amp;rsquo;s way, but I hope they take a moment to think about, and perhaps reframe in light of well-known constraints, what it is they are actually doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image sources: &lt;a href=&#34;https://www.disneyclips.com/imagesnewb3/cinderella-fairygodmother.html&#34;&gt;fairy godmother&lt;/a&gt;, &lt;a href=&#34;https://thenounproject.com/lokamariella/collection/laundry-clothes/?oq=laundry&amp;amp;cidx=5&#34;&gt;Loka Mariella&amp;rsquo;s laundry icons&lt;/a&gt;, and &lt;a href=&#34;https://thenounproject.com/search/?q=timer&amp;amp;i=1015760&#34;&gt;Gregor Cresnar&amp;rsquo;s timer icon&lt;/a&gt;. Thanks!&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:0&#34;&gt;Hate the name if you want but the story of how he got it is &lt;a href=&#34;http://www.businessinsider.com/how-hyperloop-founder-brogan-bambrogan-got-the-greatest-name-ever-2016-5&#34;&gt;kind of adorable&lt;/a&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:0&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;This is a simplification even for simple branching transit systems and a pleasant fantasy for a system like New York&amp;rsquo;s, but even the most complicated subway system is a tractable network to analyze compared to even a modest urban street network.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;It&amp;rsquo;s true that a fixed operating cost absent from the car-pod model compared to Boston&amp;rsquo;s is the salary of train operators. But any high-capacity train on Arrivo&amp;rsquo;s maglev would be fully automated.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;It seems that those who say it &lt;em&gt;shouldn&amp;rsquo;t&lt;/em&gt; be done are often asked kindly to get out of the way as well.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Closing the gap, opening the region: the North-South Rail Link</title>
