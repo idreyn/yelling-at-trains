@@ -29,7 +29,6 @@ h1 a {
 
 header {
 	background: #ffd302;
-	border-bottom: 4px black solid;
 }
 
 #header-images {
@@ -92,9 +91,12 @@ header {
 }
 
 nav {
+	display: flex;
+	align-items: center;
 	background: black;
 	color: white;
 	width: 100%;
+	min-height: 35px;
 }
 
 nav ul {
