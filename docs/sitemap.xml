@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://yelling-at-trains.org/</loc>
-    <lastmod>2018-01-01T23:45:00-06:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://yelling-at-trains.org/post/now-this-is-podracing/</loc>
@@ -34,6 +30,28 @@
   <url>
     <loc>http://yelling-at-trains.org/post/what-is-this/</loc>
     <lastmod>2016-12-21T21:04:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yelling-at-trains.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yelling-at-trains.org/post/</loc>
+    <lastmod>2018-01-01T23:45:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yelling-at-trains.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yelling-at-trains.org/</loc>
+    <lastmod>2018-01-01T23:45:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
