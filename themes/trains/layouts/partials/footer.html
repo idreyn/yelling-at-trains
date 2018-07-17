@@ -9,5 +9,40 @@
 			katex.render(element.innerHTML, element);
 		});
 	</script>
+	<script>
+		var lineColors = {
+			"ACE": "#0039A6",
+			"BDFM": "#FF6319",
+			"G": "#6CBE45",
+			"JZ": "#996633",
+			"L": "#A7A9AC",
+			"NQRW": "#FCCC0A",
+			"T": "#00ADD0",
+			"S": "#808183",
+		};
+
+		function getColorForFirstLetter(first) {
+			for (var key in lineColors) {
+				console.log(key, first.toUpperCase());
+				if (key.indexOf(first.toUpperCase()) !== -1) {
+					console.log("choosing", lineColors[key], key, "for", first.toUpperCase());
+					return lineColors[key];
+				}
+			}
+			return first.charCodeAt() % 2 === 0 ? "#EE352E" : "#00933C";
+		}
+
+		document.querySelectorAll(".article-bullet-container").forEach(function(el) {
+			var bullet = document.createElement("div");
+			var titleLetter = el.getAttribute("data-article-title").slice(0,1);
+			var bulletColor = getColorForFirstLetter(titleLetter);
+			bullet.innerHTML = titleLetter;
+			bullet.style.backgroundColor = bulletColor;
+			bullet.style.color = bulletColor === lineColors.NQRW ? "black" : "white";
+			bullet.classList.add("article-bullet");
+			el.appendChild(bullet);
+			el.style.display = "inline-block";
+		});
+	</script>
 </body>
 </html>

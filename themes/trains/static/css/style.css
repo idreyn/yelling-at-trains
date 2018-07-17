@@ -24,7 +24,12 @@ a:visited {
 }
 
 h1 a {
-	color: #be9e00 !important;
+	color: #000000 !important;
+	text-decoration: none;
+}
+
+h1 a:hover {
+	text-decoration: underline;
 }
 
 header {
@@ -175,4 +180,14 @@ figure figcaption i {
 
 sup {
 	line-height: 1em;
+}
+
+.article-bullet {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100px;
+	background: #EEE;
+	width: 55px;
+	height: 55px;
 }
