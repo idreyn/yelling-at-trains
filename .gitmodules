@@ -1,0 +1,3 @@
+[submodule "static/density-sim"]
+	path = static/density-sim
+	url = https://github.com/idreyn/yat-density-sim
