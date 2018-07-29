@@ -1,0 +1,32 @@
+{
+  "name": "density-sim",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "linear-gradient": "^1.0.6",
+    "probability-distributions": "^0.9.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-odometer": "0.0.1",
+    "react-odometerjs": "^2.1.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "format": "prettier --single-quote --no-semi --trailing-comma es5 --write 'src/**/*.js'",
+    "update": "yarn format && yarn build && git add build && git commit -am \"build and push\" && git push"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "flow": "^0.2.3",
+    "prettier": "^1.13.7"
+  }
+}
