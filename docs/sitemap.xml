@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yelling-at-trains.org/post/whose-line/</loc>
+    <lastmod>2018-07-28T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yelling-at-trains.org/post/now-this-is-podracing/</loc>
     <lastmod>2018-01-01T23:45:00-06:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>http://yelling-at-trains.org/post/</loc>
-    <lastmod>2018-01-01T23:45:00-06:00</lastmod>
+    <lastmod>2018-07-28T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +55,7 @@
   
   <url>
     <loc>http://yelling-at-trains.org/</loc>
-    <lastmod>2018-01-01T23:45:00-06:00</lastmod>
+    <lastmod>2018-07-28T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
