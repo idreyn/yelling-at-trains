@@ -5,6 +5,9 @@ languageCode = "en-us"
 theme = "trains"
 publishDir = "docs"
 
+[blackfriday]
+	hrefTargetBlank = true
+
 [[menu.main]]
     name = "Archive"
     weight = -110
