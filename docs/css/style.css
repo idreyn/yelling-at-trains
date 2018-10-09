@@ -207,3 +207,30 @@ sup {
 	height: 500px;
 	border: none;
 }
+
+.info-box {
+	font-size: 11pt;
+	line-height: 1.75em;
+	display: flex;
+	align-items: center;
+	background-color: #fff6ce;
+	border: 3px solid #ffd302;
+	color: #333;
+	padding: 10px;
+}
+
+.info-box .info-box-header {
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.info-box > div {
+	flex-grow: 1;
+}
+
+.info-box img {
+	display: block;
+	max-height: 135px;
+	margin-right: 10px;
+	flex-shrink: 1;
+}
