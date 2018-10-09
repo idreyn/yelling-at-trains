@@ -118,7 +118,7 @@ Earlier in 2018, the Transbay Transit Center[^4] in downtown San Francisco opene
 <figure class="img">
     <img src="/images/cahsr-transbay.png"/>
     <figcaption>
-        A very shiny render of Caltrain and CAHSR trains pulling into the Transbay Terminal sometime in the future. Not pictured are any of the thousands of pigeons that will presumably become the de facto rulers of this place.
+        Left, a map of Caltrain's proposed Downtown Extension. Right, A very shiny render of Caltrain and CAHSR trains pulling into the Transbay Terminal sometime in the future. Not pictured are any of the thousands of pigeons that will presumably become the de facto rulers of this place.
     </figcaption>
 </figure>
 
