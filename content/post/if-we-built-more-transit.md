@@ -1,0 +1,48 @@
+---
+title: "How startup costs hold back transit expansion"
+date: 2018-10-09T09:24:34-07:00
+draft: false
+---
+
+I don't want to be the one to jinx it, but Boston's MBTA appears to really be building the Green Line Extension (GLX) to Somerville, finally fulfilling a prophecy inscribed on a mysterious ivory dagger excavated during the Big Dig. This is the agency's first urban rail expansion since the _early 1980s_ when the Red Line was extended as far northwest as good ol' fashioned Catholic racism would permit, and it came very close to not happening at all. In 2015, the MBTA announced that the budget for the project was spiraling out of control. Already at $2.2 billion for 4.7 miles of light rail (along an existing right-of-way occupied by commuter trains!) the agency projected cost increases of another billion dollars. Consultants were hired to point out that this was very expensive, and contracts were terminated with White-Skanska-Kiewit (WSK), the rolling ball of construction firms in charge of the extension.
+
+For those of us damned to forever follow American transit news, stories like this seem to crop up about once a month; indeed, the ability to predict and manage cost overruns is the white whale of American transit planning. Contributing factors abound: minimizing traffic disruption, the cost of land acquisition in a real estate boom, labor agreements that result in massive overstaffing of construction sites, a tendency to overdesign. A combination of these will plague every transit project, based on conditions unique to each agency and region. The exact source of a cost overrun is often too complex to succinctly describe, much less solve.
+
+
+The problem is too complicated to succinctly describe, so transit agencies need domain expertise on staff, but _they don't have any because there's no need_.
+
+
+Building out new high-quality transit like GLX -- what we'd call "capital construction" -- happens too slowly and too rarely to justify keeping people who know how to build tunnels and lay track on the payroll. This is, understandably, contracted out to design firms, but often with a sense of utter helplessness on the agency's part.
+
+In the case of GLX, headlines blamed the MBTA's experimentation with "design-build" project management, whereby the firm that designs the rail line also (get this) builds it. Design-build is designed to decrease cost overruns, because it incentivizes careful forethought -- the team tossing pie-in-the-sky ideas on paper is going to be responsible for turning them into concrete in a few years. This might seem like common sense, but the MBTA is far more used to hiring a separate firm for each phase of the project, and became overreliant on WSK as a source of truth for the real costs of the extension. Thankfully, after cancelling the contracts, the agency took a hard look at the scope of its plans and re-bid the project with scaled-down ambitions for expensive station designs. In 2017 the project was picked up by a new rolling ball of contractors, GLX Ventures, who were able to budget the project for about a billion dollars less, while retaining important elements like elevators, weather shelters, and a community bike path.
+
+This story has a happy ending, but in some ways, the epilogue is bittersweet. The line opens -- there's confetti and a ribbon-cutton ceremony with cute transit-themed cupcakes. Someone updates their Green Line Bar Crawl map, and Reddit gets into a fight over whether Aeronaut Brewing is overrated. And over at the MBTA, an absolutely massive undertaking winds down and shuts off the lights. People who have spent the last five years learning how to effectively build a light rail line -- how to streamline writing legal boilerplate, how to draw up exacting specifications for elevator functionality, who to call when digging crews hit an unexpected utility line -- will go home and move on with their lives. By the time the state works up the stamina to attempt to do this again a decade later, this body of accumulated, in-house knowledge will have dissipated into the void, and will have to be built from scratch at the cost of years of time and millions of dollars. The version of me that took any business classes would call these "fixed costs", or "startup costs" -- while the goal is to pay these once to get an organization up and running, transit agencies are paying them every time there's political will to put some new rails in the ground.
+
+# How an idea becomes a transit line
+
+Engineering projects from the Saturn V all the way down to the app you use to order pizza rely on a collection of individuals, each of whom understands some subset of the entire system. Transit projects are no exception; they cost billions of dollars, can take years or even decades to complete, and involve thousands of people’s labor and expertise. Understanding the way this work is distributed can provide insight into how cost overruns occur. I lost my pirated copy of Adobe Flash so I hope you'll forgive the lack of animated musical number in the style of _How a Bill Becomes a Law_; instead, I’ve created this diagram to help me (and you, dear reader!) get a handle on it.
+
+From left to right, there are a few ways you can understand this:
+
+- Increasing in specificity
+- Decreasing in scale
+- Vaguely chronologically
+
+Transit projects start with an idea — someone says “it would be nice if there were a train here” [1], and others nod their heads in vigorous agreement. Public meetings are held, and the next step is often to use a “small” amount of seed money to conduct a preliminary study of alternatives. Many of these studies are simply completed and shelved [2], but with enough momentum, some will make it into the advanced planning stages. At this point, there is a tentative sense that something is actually going to happen, and this is where transit agencies have the most, well, agency, in the process. Armed with a general sense of where the project will be, how much it will cost, and who it will serve, they are responsible (though often in conjunction with other public entities) for applying for funding to build the thing. This may come from a mix of federal, state, county, and municipal sources, and sometimes all of these. If the project receives federal funding, the agency is responsible for completing an Environmental Impact Statement (EIS) — the mother of all planning documents, that describes the environmental impact of the project in excruciating detail.
+
+At this point there are three very risky pieces in flight at the same time: funding, the EIS, and now, _design_. The agency has a solid notion of where the line will go, which stations it will serve, and roughly how much they’re willing to spend on it. Design means paying a firm to take this information and sketch out over several passes what, concretely, will be built, feeding this information back into the budget and EIR as necessary. We often talk about design in terms of percentages — at 10% or 50% design, a rough outline is produced to identify risks that might inflate the budget. 100% design means that an extremely detailed specification (think blueprints) is available for a contractor to take and build. _In theory_, all of the difficult decisions have been made by now, but in practice, many things in the design have not been fully thought through — maybe someone forgot to consider how a certain kind of concrete cracks in freezing weather, how to account for interference on a certain wireless band, or how to tunnel around Mole People Junior High. Each such blooper requires not just redesign but also expensive “change orders” sent to subcontractors already chipping away at their own part of the project. The appeal of design-build is readily apparent here, since by fully thinking through the design, the contracting agency is saving _themselves_ a future headache, not some other chumps.
+
+[SPIDER MAN MEME]
+
+Perhaps a decade after the first public meeting, shovels are in the ground and the build contractor is dispersing billions of dollars to subcontractors, sub-subcontractors, and, well, you get the idea — eventually paying directly for concrete, rail, lightbulbs, and laborer salaries. We talk a lot about how this “contractor tree” is a source of cost overruns, since every additional layer between the funding source and physically doing something is an opportunity for profit, waste, misunderstanding, and graft. This problem is of course is not limited to transit planning [3]. Flattening the contractor tree and aligning incentives could are two easy-to-state but hard-to-implement ways to combat this, and in a future post I’ll probably argue for the existence of a publicly-owned design agency that would do the work of Skanska for cities around the United States. [elaborate/cut]
+
+## Learning by doing
+
+- Writing environmental impact reports (EIRs) -- documents that lay out, in excruciating detail, the anticipated impact of the project, environmentally, municipally, and culturally. Getting these out the door can take years.
+
+- Building relationships, both formally structured and interpersonal, with local regulatory bodies and municipalities, that make it easier to discuss and resolve recurring problems.
+
+- Outlining standards and design patterns that take the guesswork out of design. There are some things that are going to be unique to every mile of track or every station, like soil composition, utilities relocation, street geometry. There are perhaps as many that need not be -- if the MBTA were gearing up to build 50 miles of light rail instead of 5, it could specify today the signalling system, electrical components, station decor, t
+
+## Measure M/ST3 sth sth
+
