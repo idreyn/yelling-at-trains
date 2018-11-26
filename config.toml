@@ -15,9 +15,9 @@ publishDir = "docs"
     url = "/"
 
 [[menu.main]]
-    name = "What is this?"
+    name = "About"
     weight = -100
-    identifier = "whats-this"
+    identifier = "about"
     url = "/post/what-is-this"
 
 [[menu.main]]
