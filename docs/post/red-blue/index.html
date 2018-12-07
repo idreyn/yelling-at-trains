@@ -36,7 +36,7 @@
 					
 					<li><a href="http://yelling-at-trains.org/">Archive</a></li>
 					
-					<li><a href="http://yelling-at-trains.org/post/what-is-this">What is this?</a></li>
+					<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
 					
 					<li><a href="https://twitter.com/idreyn">Yell at me</a></li>
 					
@@ -52,7 +52,7 @@
 	<main>
 		<article>
 			<h1>Boston&#39;s Red-Blue Connector is about fixing the core system</h1>
-			<time>05.06.2017 12:49</time>
+			<i><time>June 5, 2017</time></i>
 			<div>
 				<p>When transit advocates in Boston call for expansions of the T, the response from MassDOT and Governor Baker is that we first need to <a href="http://www.mass.gov/governor/press-office/press-releases/fy2017/update-on-mbta-reforms-and-winter-resiliency-upgrades.html" target="_blank">focus on fixing the core system</a> &mdash; making sure that the vehicles, stations, and track we already have can operate at maximum efficiency. While this can sometimes feel like a &ldquo;shove off, we don&rsquo;t have the money&rdquo;, it&rsquo;s a pragmatic stance, and to their credit, the MBTA is actually in the middle of a push for such investment, with orders for new Red and Orange Line cars <a href="http://www.masslive.com/news/index.ssf/2017/03/take_a_tour_of_the_mock_up_of.html" target="_blank">in the works</a> and improved signaling and winterization schemes in the pipeline. By and large, prioritizing maintenance over expansion is a sound principle and I am not here to challenge it. Instead, I want to dig a bit deeper into the assumptions made when dichotomizing capital investments into &ldquo;expansion&rdquo; versus &ldquo;maintenance&rdquo;. Broadly speaking:</p>
 
@@ -134,6 +134,8 @@
 			<div>
 				<ul>
 					
+					<li><a href="http://yelling-at-trains.org/post/buying-in-bulk/">Boston should buy transit in bulk</a></li>
+					
 					<li><a href="http://yelling-at-trains.org/post/optimists-guide-to-caltrain/">The Optimist&#39;s Guide to the Caltrain</a></li>
 					
 					<li><a href="http://yelling-at-trains.org/post/whose-line/">Whose line is it, anyway?</a></li>
@@ -141,8 +143,6 @@
 					<li><a href="http://yelling-at-trains.org/post/now-this-is-podracing/">Now this is podracing!</a></li>
 					
 					<li><a href="http://yelling-at-trains.org/post/nsrl/">Closing the gap, opening the region: the North-South Rail Link</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/post/red-blue/">Boston&#39;s Red-Blue Connector is about fixing the core system</a></li>
 					
 				</ul>
 			</div>
@@ -153,8 +153,14 @@
 			<p>&copy; 2018 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></p>
 		</footer>
 	</div>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css" integrity="sha384-8QOKbPtTFvh/lMY0qPVbXj9hDh+v8US0pD//FcoYFst2lCIf0BmT58+Heqj0IGyx" crossorigin="anonymous">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.js" integrity="sha384-GR8SEkOO1rBN/jnOcQDFcFmwXAevSLx7/Io9Ps1rkxWp983ZIuUGfxivlF/5f5eJ" crossorigin="anonymous"></script>
+	
+	<link rel="stylesheet" type="text/css" href="http://yelling-at-trains.org/css/katex.min.css">
+	<script src="http://yelling-at-trains.org/js/katex.min.js"></script>
+	
+	<script src="http://yelling-at-trains.org//js/jquery-3.3.1.min.js"></script>
+	
+	<link rel="stylesheet" href="http://yelling-at-trains.org/css/bigfoot-default.css">
+	<script src="http://yelling-at-trains.org/js/bigfoot.min.js"></script>
 	<script>
 		document.querySelectorAll(".katex").forEach(function(element) {
 			katex.render(element.innerHTML, element);
@@ -194,6 +200,8 @@
 			el.appendChild(bullet);
 			el.style.display = "inline-block";
 		});
+
+		jQuery.bigfoot({activateOnHover: false});
 	</script>
 </body>
 </html>

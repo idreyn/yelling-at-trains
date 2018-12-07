@@ -36,7 +36,7 @@
 					
 					<li><a href="http://yelling-at-trains.org/">Archive</a></li>
 					
-					<li><a href="http://yelling-at-trains.org/post/what-is-this">What is this?</a></li>
+					<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
 					
 					<li><a href="https://twitter.com/idreyn">Yell at me</a></li>
 					
@@ -52,7 +52,7 @@
 	<main>
 		<article>
 			<h1>Now this is podracing!</h1>
-			<time>01.01.2018 23:45</time>
+			<i><time>January 1, 2018</time></i>
 			<div>
 				
 
@@ -165,6 +165,8 @@ A related but much more revealing question is: <em>how many pods can you run?</e
 			<div>
 				<ul>
 					
+					<li><a href="http://yelling-at-trains.org/post/buying-in-bulk/">Boston should buy transit in bulk</a></li>
+					
 					<li><a href="http://yelling-at-trains.org/post/optimists-guide-to-caltrain/">The Optimist&#39;s Guide to the Caltrain</a></li>
 					
 					<li><a href="http://yelling-at-trains.org/post/whose-line/">Whose line is it, anyway?</a></li>
@@ -172,8 +174,6 @@ A related but much more revealing question is: <em>how many pods can you run?</e
 					<li><a href="http://yelling-at-trains.org/post/now-this-is-podracing/">Now this is podracing!</a></li>
 					
 					<li><a href="http://yelling-at-trains.org/post/nsrl/">Closing the gap, opening the region: the North-South Rail Link</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/post/red-blue/">Boston&#39;s Red-Blue Connector is about fixing the core system</a></li>
 					
 				</ul>
 			</div>
@@ -184,8 +184,14 @@ A related but much more revealing question is: <em>how many pods can you run?</e
 			<p>&copy; 2018 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></p>
 		</footer>
 	</div>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css" integrity="sha384-8QOKbPtTFvh/lMY0qPVbXj9hDh+v8US0pD//FcoYFst2lCIf0BmT58+Heqj0IGyx" crossorigin="anonymous">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.js" integrity="sha384-GR8SEkOO1rBN/jnOcQDFcFmwXAevSLx7/Io9Ps1rkxWp983ZIuUGfxivlF/5f5eJ" crossorigin="anonymous"></script>
+	
+	<link rel="stylesheet" type="text/css" href="http://yelling-at-trains.org/css/katex.min.css">
+	<script src="http://yelling-at-trains.org/js/katex.min.js"></script>
+	
+	<script src="http://yelling-at-trains.org//js/jquery-3.3.1.min.js"></script>
+	
+	<link rel="stylesheet" href="http://yelling-at-trains.org/css/bigfoot-default.css">
+	<script src="http://yelling-at-trains.org/js/bigfoot.min.js"></script>
 	<script>
 		document.querySelectorAll(".katex").forEach(function(element) {
 			katex.render(element.innerHTML, element);
@@ -225,6 +231,8 @@ A related but much more revealing question is: <em>how many pods can you run?</e
 			el.appendChild(bullet);
 			el.style.display = "inline-block";
 		});
+
+		jQuery.bigfoot({activateOnHover: false});
 	</script>
 </body>
 </html>
