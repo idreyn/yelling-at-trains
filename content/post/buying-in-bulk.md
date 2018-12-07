@@ -119,6 +119,6 @@ More funding and grand ambition won't signal the immediate end of incompetence a
 
 [^gold-line]: One of the reasons cited for the increased cost of the Gold Line is a seller's market ["flooded with rail project proposals"](https://www.dailybulletin.com/2018/11/13/gold-line-board-oks-extension-only-to-la-verne-2nd-phase-to-montclair-needs-more-funds/) which is, well, a good problem to have.
 
-[^byford]: New York's MTA and its very good director Andy Byford are [hoping to apply this strategy](https://twitter.com/vanshnook/status/1070862908723212289) to its long-delayed project to install train control systems.
+[^byford]: New York's MTA and its very good president Andy Byford are [hoping to apply this strategy](https://twitter.com/vanshnook/status/1070862908723212289) to its long-delayed project to install train control systems.
 
 [^congestion-pricing]: [Los Angeles may beat us to that punch as well](https://la.curbed.com/2018/12/6/18129258/congestion-pricing-free-fares-metro-los-angeles).
