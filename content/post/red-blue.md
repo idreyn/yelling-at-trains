@@ -2,7 +2,7 @@
 title = "Boston's Red-Blue Connector is about fixing the core system"
 draft = false
 date = "2017-06-05T12:49:42-05:00"
-
+teaser = "Boston has two subway lines that don't connect for a long series of stupid reasons. Why the state of Massachusetts needs to think about this problem differently."
 +++
 
 

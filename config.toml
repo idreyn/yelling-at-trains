@@ -4,6 +4,7 @@ title = "Yelling at Trains"
 languageCode = "en-us"
 theme = "trains"
 publishDir = "docs"
+buildDrafts = "true"
 
 [blackfriday]
 	hrefTargetBlank = true

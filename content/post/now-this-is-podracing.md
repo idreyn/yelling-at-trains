@@ -2,6 +2,7 @@
 date = "2018-01-01T23:45:00-06:00"
 draft = false
 title = "Now this is podracing!"
+teaser = "Startups are claiming that they can fix congestion by putting cars on electric pods and making them go very fast! Unfortunately, this is nonsense and people should stop giving them money."
 +++
 
 Another year, another startup claiming to have solved urban congestion --- this time it's Arrivo, which has announced "the end of traffic" and dropped a slick video of their vision for travel in the 21st century, involving private vehicles loaded onto maglev pods and rocketed along highway medians at 200 miles per hour. A surfer dude pulls on a wetsuit at Mach 0.25 before we jump-cut to the beach in time for to shed some early morning gnar. A woman smiles in delight as her pod informs her that she has been TSA pre-checked, presumably having automatically disposed of her favorite water bottle for containing too much liquid. There's a tantalizing multimodality to the video; connections to existing transit are emphasized and it appears that some pods can be boarded on foot and linked together like (very) low-occupancy trains. [On Product Hunt](https://www.producthunt.com/posts/arrivo) it is described, alas, like "if Hyperloop One AND Elon Musk's The Boring Company had a baby." In fact, by inbreeding Ol' Musky's two paper-napkin concepts of future mobility they've managed to extract the worst parts of each: the Hyperloop's uphill battle to productionize maglev technology and the Boring Company's cars-on-a-pod idea with its fundamental capacity constraints.

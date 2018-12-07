@@ -5,7 +5,7 @@
 			</div>
 			<div>
 				<ul>
-					{{ range first 5 .Site.Pages }}
+					{{ range first 5 (where (where (where .Site.Pages "Type" "post") ".Params.hidden" "==" nil) ".Params.hidden" "!=" "true") }}
 					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 					{{ end }}
 				</ul>

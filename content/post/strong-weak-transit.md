@@ -2,7 +2,7 @@
 title = "Are transit networks strong-link or weak-link systems?"
 draft = false
 date = "2016-12-22T16:33:44-06:00"
-
+teaser = "Cities in the US often prioritize expensive rail extensions, but to be successful these need to be thought of as a small part of a larger transit network."
 +++
 
 Do the people who plan your city's transit system watch basketball or soccer? It's a question that probably doesn't come up much at community feedback meetings, and yet when we look at the way money is spent on transit in America, it might be wise to pause for a second and consider what sports metaphors are rattling around the brains of the planning community.[^1] On the surface, basketball and soccer may appear to be just two variants of sportsball, in which a group of people work hard to put some kind of ball in some kind of net more times than their opponent. And yet because of the geometry of each game is so different, building a winning team means different things for each sport.
@@ -37,10 +37,10 @@ With these metrics in mind, let's imagine that we are allocated a limited amount
 Okay, confession time --- I am not entirely speaking in hypotheticals here. The dichotomy between strong-link and weak-link, to me, perfectly captures the difference between the transit system Metro Transit in the Twin Cities is building versus the one I believe it should. To be precise, the majority of the capital expenditure on transit in the region between 2014 and 2024 will be on building two light-rail lines which bypass dense and transit-dependent parts of Minneapolis in a mad dash to carry commuters in and out of the deep suburbs. Others, especially on [streets.mn](https://streets.mn), have been beating this drum [loudly](https://streets.mn/2013/10/22/a-simplecomplicated-solution-to-the-southwest-corridor-situation/) and [much more skillfully](https://streets.mn/2014/08/08/a-southwest-light-rail-explainer/) for some time, but it suffices to say that although we are pouring large amounts of money into these projects, they are unlikely to serve the prime function of rapid transit, which is to move lots of people on all different types of trips, in a way that provides a new mobility alternative. We are building the strong-link system incarnate.[^3]
 
 <figure>
-	<img src="/images/oh-no-swlrt.png"/>
-	<figcaption>
-	A nuanced critique of the Southwest LRT routing, with apologies to <a href='https://www.facebook.com/webcomicname/'>Webcomic Name</a> and I guess to the <a href="https://metrocouncil.org/">Met Council</a>
-	</figcaption>
+    <img src="/images/oh-no-swlrt.png"/>
+    <figcaption>
+    A nuanced critique of the Southwest LRT routing, with apologies to <a href='https://www.facebook.com/webcomicname/'>Webcomic Name</a> and I guess to the <a href="https://metrocouncil.org/">Met Council</a>
+    </figcaption>
 </figure>
 
 A weak-link perspective on what Metro Transit could be is encapsulated in the [arterial bus rapid transit](https://www.metrotransit.org/abrt) (aBRT) plan, which calls for modestly upgraded bus service on key corridors throughout the Twin Cities. This year the first of our hopefully many aBRT services opened along Snelling Avenue. Branded the A Line, it connects both light rail lines and provides ten-minute frequencies throughout the day. Ridership on this corridor is up 35% over last year, and it's not hard to see why. We now have clearly demarcated stops with updated information about bus arrivals, pay-on-platform, and heating; the buses have signal preemption and (at least for now) a new car smell. Minneapolis-Saint Paul is said to struggle with a strong rail bias; people are much more willing to ride the strongest-link train than a weaker-link bus. I contend that the ridership improvement on Snelling visible just a few months after the A Line opened is proof enough that MSP transit users don't have a rail bias --- we have a bias for reliable and comfortable service that respects us the way light rail does, even if it doesn't go DING-DING-DING and shine lights in your face when it arrives. aBRT is how the bus should be everywhere, and it turns out we can probably build a ton of it for about $325 million[^4] which is [about as much money as it costs to pick your nose arguing about bridges for a year](https://www.minnpost.com/politics-policy/2015/07/341-million-easy-way-how-southwest-light-rail-sort-got-its-budget-back-track) instead of building light rail. Basically, we'd net the same number of new riders[^5] as either of our high-profile light rail projects for a fraction of the cost, and build a bunch of highly-visible bus infrastructure in our urban core.

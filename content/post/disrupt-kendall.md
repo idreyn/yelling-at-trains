@@ -2,6 +2,7 @@
 title = "Disrupt Kendall Square!"
 draft = false
 date = "2017-02-22T11:00:00-05:00"
+teaser = "I wrote a listicle! It's about Kendall Square, my erstwhile home as an MIT student, and the big changes the university has in store for it. Number 7 will astound you!"
 +++
 
 A few weeks ago, my MIT inbox dinged with a piece of exciting news --- President Reif announced that the university has secured the rights to redevelop a huge part of adjacent Kendall Square that is currently owned by the US Department of Transportation. Kendall is the epicenter of Cambridge's tech community and even if you spend as much time pounding down overpriced quinoa bowls there as I do, you may not be aware that the USDOT's Volpe Center research facility is tucked right behind the Marriott on Broadway, in an imposing but mostly nondescript building that you can't get into without a passport and a blood sample. This is a huge opportunity --- maybe our last opportunity --- to start building a real neighborhood out of what could currently be better described as a gleaming pileup of biotech buildings. MIT treasurer Israel Ruiz laid out MIT's broad vision in [an interview with MIT News](http://news.mit.edu/2017/3q-israel-ruiz-investment-volpe-center-0118) where, perhaps in an attempt to spot-fix a game of Silicon Valley buzzword bingo, he used the phrase "innovation ecosystem" five times in the space of three questions.

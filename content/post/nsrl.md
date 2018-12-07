@@ -2,6 +2,7 @@
 title = "Closing the gap, opening the region: the North-South Rail Link"
 date = "2017-11-11T21:50:58-08:00"
 draft = false
+teaser = "There's one transit project that has the potential to completely change the way people get around the Boston area, and would you believe it, it's in the title of this post."
 +++
 
 Imagine for a moment that your city lacked a highway network entirely. Instead, it had a series of ordinary two-lane streets in place of Interstates X, Y, and Z, each with massively wide turns and hundreds of feet of totally undeveloped grassland on each side -- in short, everything that a highway implies except the pavement. The roads don't connect downtown, but lo, there is an _pre-excavated_ tunnel under the city center that we can use to connect them. There would be no debate about whether to build highways on this land. It would have unanimous political support. You and I would be sleeping in hard hats and driving backhoes around right now racing to get this project done last week.

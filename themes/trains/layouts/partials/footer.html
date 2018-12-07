@@ -2,8 +2,14 @@
 			<p>&copy; {{ .Now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
 		</footer>
 	</div>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css" integrity="sha384-8QOKbPtTFvh/lMY0qPVbXj9hDh+v8US0pD//FcoYFst2lCIf0BmT58+Heqj0IGyx" crossorigin="anonymous">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.js" integrity="sha384-GR8SEkOO1rBN/jnOcQDFcFmwXAevSLx7/Io9Ps1rkxWp983ZIuUGfxivlF/5f5eJ" crossorigin="anonymous"></script>
+	<!-- Markdown support from the weirdos at Khan Academy -->
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL}}css/katex.min.css">
+	<script src="{{ .Site.BaseURL }}js/katex.min.js"></script>
+	<!-- I guess we need jQuery now -->
+	<script src="{{ .Site.BaseURL }}/js/jquery-3.3.1.min.js"></script>
+	<!-- Bigfoot footnote support -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bigfoot-default.css">
+	<script src="{{ .Site.BaseURL }}js/bigfoot.min.js"></script>
 	<script>
 		document.querySelectorAll(".katex").forEach(function(element) {
 			katex.render(element.innerHTML, element);
@@ -43,6 +49,8 @@
 			el.appendChild(bullet);
 			el.style.display = "inline-block";
 		});
+
+		jQuery.bigfoot({activateOnHover: false});
 	</script>
 </body>
 </html>

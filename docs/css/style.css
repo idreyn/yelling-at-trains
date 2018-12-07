@@ -11,7 +11,7 @@ blockquote {
 	box-sizing: content-box;
 }
 
-li {
+ul li {
 	list-style-type: square;
 }
 
