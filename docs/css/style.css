@@ -269,6 +269,7 @@ sup {
 .info-box img {
 	display: block;
 	max-height: 135px;
+	min-height: 100px;
 	margin-right: 10px;
 	flex-shrink: 1;
 }
