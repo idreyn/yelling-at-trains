@@ -7,11 +7,11 @@ teaser: "The MBTA is raising its fares again to keep up with inflation. If the s
 
 _My friend [Kenny](https://kennethfriedman.org/) messaged me the other day asking for a quick take on the proposed 2019 MBTA fare increase of 6.3% -- in brief, it would raise the cost of a subway ride from $2.25 to $2.40. That spiraled out of control into the draft of a Twitter thread, which made me remember that I actually run a blog about transit and haven't posted for a while, so here we are._
 
-That the MBTA needs to raise its fares from time to time is inevitable. Fares account for about 30% of the agency's revenue, and their day-to-day operations rely on that stream of cash keeping up with inflation. [As the agency calmly explains on its website](https://www.mbta.com/fare-proposal-2019):
+That the MBTA needs to raise its fares from time to time is inevitable. Fares account for about 30% of the agency's revenue, and their day-to-day operations rely on that stream of cash keeping up with inflation. [As the T calmly explains on its website](https://www.mbta.com/fare-proposal-2019):
 
 > While the MBTA continues to focus on controlling costs and growing non-fare revenue, this proposed increase, which is in line with the rate of inflation in the Boston area, is necessary for the Authority to continue making system investments to improve service.
 
-It's certainly true on the surface, but there a few things that are misleading about this statement. The first is, as far as I can tell, the cost of a ride on an MBTA subway has not had any trouble keeping pace with inflation (as measured by the Consumer Price Index). Here's the data starting in 2007, when the CharlieCard and its fare structure were introduced:
+It's certainly true on the surface, but there a few things that are misleading about this statement. The first is that, as far as I can tell, the cost of a ride on an MBTA subway has not had any trouble keeping pace with inflation (as measured by the Consumer Price Index). Here's the data starting in 2007, when the CharlieCard and its fare structure were introduced:
 
 <figure class="img-med">
     <img src="/images/mbta-fares-vs-cpi.png" alt="A chart showing how CharlieCard fares outpace the CPI -- check out the linked spreadsheet below for the raw data." />
