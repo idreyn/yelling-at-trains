@@ -201,6 +201,10 @@ figure.img-small img {
 	max-height: 200px;
 }
 
+figure.img-med img {
+	max-height: 375px;
+}
+
 figure.img-large img {
 	max-height: 500px;
 }
