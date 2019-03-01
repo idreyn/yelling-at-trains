@@ -1,0 +1,18 @@
+---
+title: "A digression/humblebrag/mea cupla on carbon offsets for air travel"
+date: 2019-02-24T19:54:52-08:00
+draft: true
+hidden: true
+---
+
+_This post is intended as an addendum to [this one](/post/carbon-math). If you got here from somewhere else, well, spooky._
+
+While aviation only accounts for about 2% of global emissions, it's a heavy hitter in many Americans' carbon footprints -- mine included. A certain amount of my self-identity is built around being a big trains guy and not eating meat, I'm fully aware that due to the amount of flights I take, my carbon footprint is probably larger than a lot of Americans who drive everywhere but have the decency of mostly staying put on a continental scale.
+
+Recently I've made a foray into trying to change that by buying carbon offsets based on the number of miles I fly. A round-trip SF to NY flight puts about two tons of CO<sub>2</sub> into the atmosphere for each economy-class seat, and there are a menagerie of businesses and nonprofits happy to take your cash (at about $10-20/ton CO<sub>2</sub>) and put it towards projects that are carbon-negative, essentially cleaning up your carbon mess behind you. The idea is sound, but using this technique to balance the books on your personal carbon output is a messy business.
+
+The sources and quality of carbon offsets vary greatly, but the key feature of effective ones is _additionality_ -- it should be readily apparent how your contribution pays for an additional, incremental reduction in emissions. So paying a farmer to divert their methane emissions at a certain cost per pound has a stronger sense of additionality than, say, throwing money towards a wind farm project that would have been funded by government subsidy anyway. Ideally the offset should happen during an identifiable and short window of time, which makes planting trees a particularly risky choice; they can die, burn down, or get outbid on by loggers well before they capture a lifetime's worth of CO<sub>2</sub>. At any rate, in the absence of any government-enforced certification for offsets, you can really only take the provider at their word.
+
+The other problem is that while offsets seem surprisingly affordable, at least to the jet set, this is largely so because the projects doing the offsetting represent extremely low-hanging fruit in the carbon capture space; if everyone in the US decided that they wanted their air travel to be carbon-neutral tomorrow, there wouldn't be enough emissions-capturing infrastructure to go around, and the price would rocket upwards. In this sense, it's little more than a mechanism for the wealthy to pay the less affluent to burn less carbon so they don't have to.
+
+So it's safe to say that carbon offsets aren't going to save the world, but they're not doing _nothing_, either, so in the end I double-offset my flights for this year at a total cost of about $50/month, hedging my bets with both [Native Energy](https://nativeenergy.com/project/seneca-meadows-landfill-gas-to-energy/) and [Terrapass](https://www.terrapass.com/). Obviously not everyone can afford this, but most people who fly frequently can, and since my employer is going to pay for the bulk of my air travel this year, I figure it's the least I can do. Is it effective? Maybe. Do I feel less guilty? Eh, kinda. The chain of cause and effect between me tossing some money into a Stripe form and the world becoming somehow less bad is too abstract for me to really wrap my head around. In the end, reducing aviation emissions is going to take a combination of new technologies, personal sacrifice, and -- one would hope -- the return of the mighty zeppelin as our primary mode of air travel.
