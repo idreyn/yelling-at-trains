@@ -20,7 +20,7 @@ It's certainly true on the surface, but there a few things that are misleading a
     </figcaption>
 </figure>
 
-The second is that while MBTA fares have increased more or less monotonically thoughout the ages, they haven't tracked inflation very closely at all:
+The second is that while MBTA fares have increased more or less monotonically thoughout the ages, they haven't tracked inflation very closely at all, and in real terms they've varied quite widely:
 
 <figure class="img-med">
     <a href="/images/mbta-fares-vs-inflation.png">
