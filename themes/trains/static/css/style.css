@@ -91,12 +91,16 @@ header {
 
 #wrap, #header-inner, #nav-inner {
 	width: 90%;
-	max-width: 800px;
+	max-width: 700px;
 	margin: 0 auto;
 }
 
 #pagination {
 	margin-top: 20px;
+}
+
+article h1 {
+	margin-bottom: 0;
 }
 
 article.summary {
@@ -188,6 +192,13 @@ article iframe {
 	margin: 0 auto;
 }
 
+
+article iframe.big-iframe {
+	width: 100%;
+	height: 400px;
+}
+
+
 figure img {
 	max-width: 100%;
 	max-height: 300px;
@@ -276,4 +287,17 @@ sup {
 	min-height: 100px;
 	margin-right: 10px;
 	flex-shrink: 1;
+}
+
+.carbon-table {
+	margin: 0 auto;
+}
+
+.carbon-table tr > td:first-child {
+		text-align: right;
+		font-weight: bold;
+}
+
+.carbon-table tr > td {
+	padding-right: 5px;
 }
