@@ -30,23 +30,6 @@
 				<img src="http://yelling-at-trains.org/header-right.png"/>
 			</div>
 		</div>		
-		<nav>
-			<div id="nav-inner">
-				<ul>
-					
-					<li><a href="http://yelling-at-trains.org/">Archive</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
-					
-					<li><a href="https://twitter.com/idreyn">Yell at me</a></li>
-					
-					<li><a href="https://medium.com/@idreyn">Other writing</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/index.xml">RSS</a></li>
-					
-				</ul>
-			</div>
-		</nav>
 	</header>
 	<div id="wrap">
 	<main>
@@ -91,7 +74,24 @@
 	</aside>
 
 		<footer>
-			<p>&copy; 2019 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></p>
+			<nav>
+				<div id="nav-inner">
+					<ul>
+						
+						<li><a href="http://yelling-at-trains.org/">Archive</a></li>
+						
+						<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
+						
+						<li><a href="https://twitter.com/idreyn">Hellsite</a></li>
+						
+						<li><a href="https://medium.com/@idreyn">Other writing</a></li>
+						
+						<li><a href="http://yelling-at-trains.org/index.xml">RSS</a></li>
+						
+						<li>&copy; 2019 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></li>
+					</ul>
+				</div>
+			</nav>
 		</footer>
 	</div>
 	
@@ -132,7 +132,7 @@
 
 		document.querySelectorAll(".article-bullet-container").forEach(function(el) {
 			var bullet = document.createElement("div");
-			var titleLetter = el.getAttribute("data-article-title").slice(0,1);
+			var titleLetter = (el.getAttribute("data-subway-bullet") || el.getAttribute("data-article-title")).slice(0,1);
 			var bulletColor = getColorForFirstLetter(titleLetter);
 			bullet.innerHTML = titleLetter;
 			bullet.style.backgroundColor = bulletColor;

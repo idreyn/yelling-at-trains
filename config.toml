@@ -22,7 +22,7 @@ buildDrafts = "true"
     url = "/post/what-is-this"
 
 [[menu.main]]
- 	name = "Yell at me"
+ 	name = "Hellsite"
  	weight = -90
  	identifier = "contact"
  	url = "https://twitter.com/idreyn"

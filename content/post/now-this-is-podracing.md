@@ -2,6 +2,7 @@
 date = "2018-01-01T23:45:00-06:00"
 draft = false
 title = "Now this is podracing!"
+subwayBullet = "P"
 teaser = "Startups are claiming that they can fix congestion by putting cars on electric pods and making them go very fast! Unfortunately, this is nonsense and people should stop giving them money."
 +++
 

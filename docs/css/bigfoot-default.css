@@ -29,15 +29,15 @@
 .bigfoot-footnote__button:hover,
 .bigfoot-footnote__button:focus {
   outline: none;
-  background-color: rgba(110, 110, 110, 0.5);
+  background-color: black;
 }
 
 .bigfoot-footnote__button:active {
-  background-color: rgba(110, 110, 110, 0.5);
+  background-color: black;
 }
 
 .bigfoot-footnote__button.is-active {
-  background-color: #6e6e6e;
+  background-color: black;
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
@@ -90,9 +90,9 @@
   box-sizing: border-box;
   max-width: 90%;
   margin: 1.96924em 0;
-  background: #fafafa;
+  background: black;
   opacity: 0;
-  border: 1px solid #c3c3c3;
+  border: none;
   line-height: 0;
 }
 
@@ -186,7 +186,7 @@
   box-sizing: inherit;
   overflow: hidden;
   margin: 0;
-  background-color: #fafafa;
+  background-color: black;
   border-radius: 0.5em;
   line-height: 0;
 }
@@ -202,9 +202,10 @@
   box-sizing: inherit;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
-  background: #fafafa;
+  background: black;
   font-smoothing: subpixel-antialiased;
   line-height: normal;
+  color: white;
 }
 
 .bigfoot-footnote__content img {
@@ -225,14 +226,14 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  margin-left: -0.65em;
+  margin-left: -0.63em;
   width: 1.3em;
   height: 1.3em;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  background: #fafafa;
-  border: 1px solid #c3c3c3;
+  background: black;
+  border: none;
   border-top-left-radius: 0;
 }
 

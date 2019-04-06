@@ -2,6 +2,7 @@
 title: "Fare Hikes and Feedback Loops"
 date: 2019-02-28T20:28:18-08:00
 draft: true
+subwayBullet: L
 teaser: "The MBTA is raising its fares again to keep up with inflation. If the state does some things right, I hope this will be the last fare hike for quite a while."
 ---
 
