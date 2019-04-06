@@ -1,5 +1,14 @@
 		<footer>
-			<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
+			<nav>
+				<div id="nav-inner">
+					<ul>
+						{{ range .Site.Menus.main }}
+						<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+						{{ end }}
+						<li>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
+					</ul>
+				</div>
+			</nav>
 		</footer>
 	</div>
 	<!-- Markdown support from the weirdos at Khan Academy -->
@@ -40,7 +49,7 @@
 
 		document.querySelectorAll(".article-bullet-container").forEach(function(el) {
 			var bullet = document.createElement("div");
-			var titleLetter = el.getAttribute("data-article-title").slice(0,1);
+			var titleLetter = (el.getAttribute("data-subway-bullet") || el.getAttribute("data-article-title")).slice(0,1);
 			var bulletColor = getColorForFirstLetter(titleLetter);
 			bullet.innerHTML = titleLetter;
 			bullet.style.backgroundColor = bulletColor;

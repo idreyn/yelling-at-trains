@@ -30,14 +30,5 @@
 				<img src="/header-right.png"/>
 			</div>
 		</div>		
-		<nav>
-			<div id="nav-inner">
-				<ul>
-					{{ range .Site.Menus.main }}
-					<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-		</nav>
 	</header>
 	<div id="wrap">

@@ -30,23 +30,6 @@
 				<img src="http://yelling-at-trains.org/header-right.png"/>
 			</div>
 		</div>		
-		<nav>
-			<div id="nav-inner">
-				<ul>
-					
-					<li><a href="http://yelling-at-trains.org/">Archive</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
-					
-					<li><a href="https://twitter.com/idreyn">Yell at me</a></li>
-					
-					<li><a href="https://medium.com/@idreyn">Other writing</a></li>
-					
-					<li><a href="http://yelling-at-trains.org/index.xml">RSS</a></li>
-					
-				</ul>
-			</div>
-		</nav>
 	</header>
 	<div id="wrap">
 	<main>
@@ -58,6 +41,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet="L"
 				data-article-title="Fare Hikes and Feedback Loops"
 			></div>
 			<div>
@@ -82,30 +66,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
-				data-article-title="The carbon math of high-speed rail"
-			></div>
-			<div>
-				<h2>
-
-					<a href="http://yelling-at-trains.org/post/carbon-math/">
-						The carbon math of high-speed rail
-					</a>
-				</h2>
-				<i><time>February 24, 2019</time> &mdash; 4 minute read</i>
-				
-				<div></div>
-			</div>
-		</article>
-	
-
-
-		
-			
-		
-		<article class="summary">
-			<div
-				class="article-bullet-container"
-				style="display:none"
+				data-subway-bullet=""
 				data-article-title="Boston should buy transit in bulk"
 			></div>
 			<div>
@@ -130,6 +91,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet="O"
 				data-article-title="The Optimist&#39;s Guide to the Caltrain"
 			></div>
 			<div>
@@ -154,6 +116,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet=""
 				data-article-title="Whose line is it, anyway?"
 			></div>
 			<div>
@@ -178,6 +141,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet="P"
 				data-article-title="Now this is podracing!"
 			></div>
 			<div>
@@ -202,6 +166,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet=""
 				data-article-title="Closing the gap, opening the region: the North-South Rail Link"
 			></div>
 			<div>
@@ -226,6 +191,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet="S"
 				data-article-title="Boston&#39;s Red-Blue Connector is about fixing the core system"
 			></div>
 			<div>
@@ -250,6 +216,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet=""
 				data-article-title="Disrupt Kendall Square!"
 			></div>
 			<div>
@@ -274,6 +241,7 @@
 			<div
 				class="article-bullet-container"
 				style="display:none"
+				data-subway-bullet=""
 				data-article-title="Are transit networks strong-link or weak-link systems?"
 			></div>
 			<div>
@@ -292,6 +260,9 @@
 
 
 		
+			
+
+		
 		<div id="pagination">
 
 1 of 2
@@ -301,7 +272,24 @@
 </div>
 	</main>
 		<footer>
-			<p>&copy; 2019 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></p>
+			<nav>
+				<div id="nav-inner">
+					<ul>
+						
+						<li><a href="http://yelling-at-trains.org/">Archive</a></li>
+						
+						<li><a href="http://yelling-at-trains.org/post/what-is-this">About</a></li>
+						
+						<li><a href="https://twitter.com/idreyn">Hellsite</a></li>
+						
+						<li><a href="https://medium.com/@idreyn">Other writing</a></li>
+						
+						<li><a href="http://yelling-at-trains.org/index.xml">RSS</a></li>
+						
+						<li>&copy; 2019 <a href="http://yelling-at-trains.org/">Yelling at Trains</a></li>
+					</ul>
+				</div>
+			</nav>
 		</footer>
 	</div>
 	
@@ -342,7 +330,7 @@
 
 		document.querySelectorAll(".article-bullet-container").forEach(function(el) {
 			var bullet = document.createElement("div");
-			var titleLetter = el.getAttribute("data-article-title").slice(0,1);
+			var titleLetter = (el.getAttribute("data-subway-bullet") || el.getAttribute("data-article-title")).slice(0,1);
 			var bulletColor = getColorForFirstLetter(titleLetter);
 			bullet.innerHTML = titleLetter;
 			bullet.style.backgroundColor = bulletColor;

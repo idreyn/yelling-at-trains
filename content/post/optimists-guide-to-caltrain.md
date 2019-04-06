@@ -2,6 +2,7 @@
 title: "The Optimist's Guide to the Caltrain"
 date: 2018-10-08T12:00:00-07:00
 draft: false
+subwayBullet: O
 teaser: "Caltrain, Silicon Valley's commuter train system, is okay. Then it's gonna get slightly worse? Then it's gonna get really good! You should probably just read the post, it explains it better."
 ---
 
