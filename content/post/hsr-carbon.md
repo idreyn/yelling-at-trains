@@ -1,6 +1,6 @@
 ---
 title: "The carbon calculus of high-speed rail"
-date: 2019-03-27T20:51:21-08:00
+date: 2019-04-05T20:51:21-08:00
 draft: true
 hidden: true
 subwayBullet: C
