@@ -2,6 +2,7 @@
 title: "The carbon calculus of high-speed rail"
 date: 2019-03-27T20:51:21-08:00
 draft: true
+hidden: true
 ---
 
 For a few weeks each year, often coinciding with the latest climate accords, emergency summit, or wildfire, the United States collectively kicks around the idea of saving the planet. In early 2019 this idea is once again having a moment thanks to a group of climate activists organizing around the idea of a Green New Deal to push the economy towards carbon-neutrality. As it stands, the GND is barely the shadow of a full-fledged proposal. While it has a long way to go before it can be massaged by Congress into a set of tax breaks for mildly repentant oil companies and eventually passed into law, it's refreshing to see folks in government proposing solutions that at least acknowledge the scale of the problem.
