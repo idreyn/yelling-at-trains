@@ -4,7 +4,8 @@ date: 2019-04-05T20:51:21-08:00
 draft: true
 hidden: true
 subwayBullet: C
-teaser: High-speed rail is part of the Green New Deal's carbon-neutrality plan, but California's attempt at building it suggests we should look at more cost-effective alternatives.
+teaser: What are the actual carbon savings from high-speed rail, and does it deserve a place in the Green New Deal?
+teaserImage: images/hsr-passes-metrolink.png
 ---
 
 For a few weeks each year, often coinciding with the latest climate accords, emergency summit, or wildfire, the United States collectively kicks around the idea of saving the planet. This year, I feel slightly more optimistic that all the talk will eventually lead somewhere, thanks to actually-good-congresswoman Alexandria Ocasio-Cortez, [a bunch of ne'er-do-wells kicking around in Dianne Feinstein's office](https://thehill.com/homenews/senate/431238-kids-confront-feinstein-over-green-new-deal), and their renewed calls for a Green New Deal bill to push the nation towards carbon-neutrality. As it stands, the Green New deal is more of an idea than a concrete proposal. While it has a long way to go before it can be massaged by Congress into a set of tax breaks for mildly repentant oil companies and eventually passed into law, it's refreshing to see folks in government proposing solutions that at least acknowledge the scale of the problem.
