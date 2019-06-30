@@ -28,7 +28,7 @@
 
 
 html, body {
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	min-width: 100%;
 	min-height: 100%;
 	margin: 0;
@@ -200,7 +200,7 @@ hr {
 }
 
 article {
-	line-height: 1.6em;
+	line-height: 1.8em;
 }
 
 article li {
