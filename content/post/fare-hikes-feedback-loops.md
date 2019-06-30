@@ -40,6 +40,13 @@ The point of MBTA isn't to make money -- it's to move as many people as possible
 
 So, we need well-funded public transportation, so let's fund it, right? Well, it might not be that simple. Consider that the efficiency of a transit service is often judged by its _farebox recovery ratio_ (FRR), its revenue divided by its operating costs[^1]. The MBTA's argument for raising fares is essentially that it wants to keep its FRR constant by raising the numerator of this fraction. But they're also betting that this increase won't further tank ridership.
 
+<figure class="img-med">
+        <img height="75" src="/images/frr-2.png" alt="FRR is farebox revenue divided by operating costs." />
+    <figcaption>
+        This <i>will</i> be on the test.
+    </figcaption>
+</figure>
+
 They're probably _mostly_ right -- lots of people depend on the T, and sadly those who depend on it the most will be hit the hardest by this price hike. Still, because of the increase, a few more groups of college students will run the numbers and decide to split a Lyft. A few more people will just decide to drive to work, further choking up Route 1 and driving up the state's yearly roadwork bill by a few cents each day. A few more people might just stay home. None of these things are catastrophes, but they shift the calculus _ever_ so slightly, and the next time Charlie Baker's office looks at the FRR, someone will start to wonder what they can do about the denominator.
 
 High ridership means leglislators pat themselves on the back and clear a path to future service improvements, which means higher ridership in the future. Low ridership means a struggle to justify existing service -- cue murmurings about Uber and Lyft[^2] -- which could lead to cuts things like weekend commuter rail trains or hard-won night bus service, unsurprisingly dragging ridership down further. Cheap gas has made driving more appealing and driven [recent declines in transit ridership](https://www.citylab.com/transportation/2017/02/whats-behind-declining-transit-ridership-nationwide/517701/) in almost every American city. The _two_ exceptions are Seattle and Houston -- both cities that have made [leaps](https://www.citylab.com/transportation/2017/10/how-seattle-bucked-a-national-trend-and-got-more-people-to-ride-the-bus/542958/) and [bounds](https://www.citylab.com/transportation/2016/04/how-houstons-bus-network-got-its-groove-back/476784/) in improving the quality of their bus networks over the past five years or so. Seattle has been installing bus lanes and queue jumps like nobody's business, and Houston basically redesigned its bus network from the ground up to maximize the usefulness of its routes.
